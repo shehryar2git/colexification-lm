@@ -1,0 +1,7 @@
+condition,label,status,n_concepts,n_pairs,rho_raw,rho_ci_low,rho_ci_high,p_mantel_one_sided,p_mantel_two_sided,null_mean,null_sd,rho_partial,p_partial_one_sided,rho_partial_freq,rho_partial_field,rho_drop_raw_to_partial,ari_primary,nmi_primary,p_ari_primary,k_reference,procrustes_m2,p_protest,n_concepts_procrustes,p_mantel_bh,p_partial_bh,h1_supported,bh_family
+w2v_gnews,"word2vec (EN, static)",done,330,54285,0.128638,0.0991232,0.15978,9.999e-05,9.999e-05,-2.55142e-05,0.00913727,0.0838611,9.999e-05,0.113815,0.0967845,0.0447769,0.172005,0.466345,9.999e-05,22,0.830589,9.999e-05,325,9.999e-05,9.999e-05,True,1 available conditions
+bert_base,BERT-base (EN),PENDING USER RUN,,,,,,,,,,,,,,,,,,,,,,,,False,1 available conditions
+xlmr_base,XLM-R base (multi),PENDING USER RUN,,,,,,,,,,,,,,,,,,,,,,,,False,1 available conditions
+labse,LaBSE (multi),PENDING USER RUN,,,,,,,,,,,,,,,,,,,,,,,,False,1 available conditions
+xlmr_translated,XLM-R (multi input),PENDING USER RUN,,,,,,,,,,,,,,,,,,,,,,,,False,1 available conditions
+labse_translated,LaBSE (multi input),PENDING USER RUN,,,,,,,,,,,,,,,,,,,,,,,,False,1 available conditions

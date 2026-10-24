@@ -1,0 +1,49 @@
+{
+  "n_runs": 100,
+  "seeds": "20261016..20261115",
+  "louvain": {
+    "ari": {
+      "median": 0.8856153466469552,
+      "q25": 0.8540017800153203,
+      "q75": 0.9213952308751068,
+      "min": 0.6463133605082619,
+      "max": 1.0,
+      "mean": 0.8823750033505142
+    },
+    "nmi": {
+      "median": 0.9209488706654789,
+      "q25": 0.9010756869714741,
+      "q75": 0.9459134580887836,
+      "min": 0.8325555832252091,
+      "max": 1.0000000000000002,
+      "mean": 0.9228932555600147
+    },
+    "n_communities": {
+      "median": 29.0,
+      "q25": 29.0,
+      "q75": 29.0,
+      "min": 28.0,
+      "max": 31.0,
+      "mean": 29.22
+    },
+    "modularity": {
+      "median": 0.6578679235049403,
+      "q25": 0.657469512945865,
+      "q75": 0.6587752525435895,
+      "min": 0.6560391524029104,
+      "max": 0.6597933299373,
+      "mean": 0.6580350119712854
+    }
+  },
+  "infomap": "PENDING USER RUN: `pip install infomap==2.8.0`, then `python run.py network`",
+  "louvain_stability_verdict": "moderately stable",
+  "reference": {
+    "rule": "Louvain medoid run (max mean ARI to the other runs)",
+    "run_index": 84,
+    "seed": 20261100,
+    "n_communities": 29,
+    "n_singletons": 12,
+    "mean_ari_to_other_runs": 0.9166126405758671,
+    "sha256": "baee9fd354a787ad09b163f7095b2e73050f440318fcd972a904cb16dbb75b8a"
+  }
+}

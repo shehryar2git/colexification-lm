@@ -1,0 +1,15 @@
+[project]
+name = "colexification-lm"
+version = "0.1.0"
+description = "Do language models think in English? Testing multilingual embedding spaces against the world's colexification patterns."
+requires-python = ">=3.11,<3.12"
+license = { text = "MIT (code); data under their original licences (CLICS4: CC-BY-4.0; Glottolog: CC-BY-4.0)" }
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-ra --strict-markers"
+markers = [
+    "slow: needs downloaded data or models (deselect with -m 'not slow')",
+    "network: needs internet access",
+]

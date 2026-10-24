@@ -1,0 +1,17 @@
+family_name,family_gc,file,n_languages,n_concepts_attested,n_within_family_edges,share_pairs_tied_at_1,spearman_with_global_rate
+Austronesian,aust1307,family_austronesian.npz,401,425,370,0.995893,0.285671
+Atlantic-Congo,atla1278,family_atlantic-congo.npz,234,422,201,0.997737,0.169989
+Sino-Tibetan,sino1245,family_sino-tibetan.npz,180,426,535,0.99409,0.22866
+Nuclear Trans New Guinea,nucl1709,family_nuclear-trans-new-guinea.npz,133,391,141,0.998151,0.160849
+Pama-Nyungan,pama1250,family_pama-nyungan.npz,123,401,97,0.998791,0.170321
+Afro-Asiatic,afro1255,family_afro-asiatic.npz,89,424,133,0.998517,0.203997
+Indo-European,indo1319,family_indo-european.npz,63,425,148,0.998357,0.232382
+Tupian,tupi1275,family_tupian.npz,53,418,122,0.9986,0.171962
+Austroasiatic,aust1305,family_austroasiatic.npz,38,419,71,0.999189,0.159508
+Nakh-Daghestanian,nakh1245,family_nakh-daghestanian.npz,33,424,147,0.998361,0.211923
+Turkic,turk1311,family_turkic.npz,32,426,93,0.998973,0.157079
+Uralic,ural1272,family_uralic.npz,26,424,107,0.998807,0.192973
+Tai-Kadai,taik1256,family_tai-kadai.npz,24,423,97,0.998913,0.153239
+Hmong-Mien,hmon1336,family_hmong-mien.npz,23,417,48,0.999447,0.0899703
+Tucanoan,tuca1253,family_tucanoan.npz,21,421,94,0.998937,0.131953
+Arawakan,araw1281,family_arawakan.npz,20,420,64,0.999273,0.160778

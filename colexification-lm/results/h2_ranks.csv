@@ -1,0 +1,248 @@
+condition,population,role,match_id,pair,rank
+w2v_gnews,all_pairs,present,1260,HUNT~LOOK FOR,0
+w2v_gnews,all_pairs,absent,1260,FAT (ORGANIC SUBSTANCE)~THICK,0.0579268
+w2v_gnews,all_pairs,absent,1260,BATHE~SWIM,0.00304878
+w2v_gnews,all_pairs,absent,1260,FIND~LOOK,0.00762195
+w2v_gnews,all_pairs,present,835,EVENING~NIGHT,0
+w2v_gnews,all_pairs,absent,835,EARTH (SOIL)~SAND,0.00609756
+w2v_gnews,all_pairs,absent,835,MOUNTAIN~STONE,0.0396341
+w2v_gnews,all_pairs,absent,835,LEG~UPPER LEG (THIGH),0.00152439
+w2v_gnews,all_pairs,present,327,BOY~SON,0.0137195
+w2v_gnews,all_pairs,absent,327,HUSBAND~WIFE,0
+w2v_gnews,all_pairs,absent,327,HOW~WHY,0.00304878
+w2v_gnews,all_pairs,absent,327,BELOW OR UNDER~LOW,0.169207
+w2v_gnews,all_pairs,present,324,BOY~MALE PERSON,0.00304878
+w2v_gnews,all_pairs,absent,324,LAKE~WATER,0.00152439
+w2v_gnews,all_pairs,absent,324,FLAT~WIDE,0.0609756
+w2v_gnews,all_pairs,absent,324,FOUR~THREE,0
+w2v_gnews,all_pairs,present,532,CORRECT (RIGHT)~GOOD,0.0365854
+w2v_gnews,all_pairs,absent,532,FOOT~LEG,0.0213415
+w2v_gnews,all_pairs,absent,532,PATH~ROAD,0
+w2v_gnews,all_pairs,absent,532,NECK~THROAT,0.00762195
+w2v_gnews,all_pairs,present,1072,FOREST~WOOD,0
+w2v_gnews,all_pairs,absent,1072,AIR~SKY,0.0137195
+w2v_gnews,all_pairs,absent,1072,TEN~TWENTY,0
+w2v_gnews,all_pairs,absent,1072,AGAIN~NEW,0.14939
+w2v_gnews,all_pairs,present,1644,SHOOT~THROW,0.00457317
+w2v_gnews,all_pairs,absent,1644,THAT~THEY,0.0198171
+w2v_gnews,all_pairs,absent,1644,HE~THAT,0.00762195
+w2v_gnews,all_pairs,absent,1644,BITE~EAT,0.0228659
+w2v_gnews,all_pairs,present,362,BRING~TAKE,0.0137195
+w2v_gnews,all_pairs,absent,362,BEAUTIFUL~CLEAN,0.054878
+w2v_gnews,all_pairs,absent,362,BE ALIVE~RAW,0.54878
+w2v_gnews,all_pairs,absent,362,RED~RIPE,0.39939
+w2v_gnews,all_pairs,present,1116,GOOD~RIGHT,0.0198171
+w2v_gnews,all_pairs,absent,1116,HEAR~KNOW (SOMETHING),0.0182927
+w2v_gnews,all_pairs,absent,1116,GREEN~RAW,0.410061
+w2v_gnews,all_pairs,absent,1116,SOFT~WEAK,0.00152439
+w2v_gnews,all_pairs,present,1362,LOOK~SEE,0
+w2v_gnews,all_pairs,absent,1362,HERE~THIS,0.00152439
+w2v_gnews,all_pairs,absent,1362,LANGUAGE~WORD,0
+w2v_gnews,all_pairs,absent,1362,WHAT~WHO,0.054878
+w2v_gnews,all_pairs,present,587,DARK~NIGHT,0.114329
+w2v_gnews,all_pairs,absent,587,CLAW~FINGERNAIL,0.233232
+w2v_gnews,all_pairs,absent,587,AFTERWARDS~BEHIND,0.262195
+w2v_gnews,all_pairs,absent,587,BE ALIVE~SIT,0.992378
+w2v_gnews,all_pairs,present,388,BUY~TAKE,0.0381098
+w2v_gnews,all_pairs,absent,388,BIG~HIGH,0.0594512
+w2v_gnews,all_pairs,absent,388,LANGUAGE~SPEAK,0.0106707
+w2v_gnews,all_pairs,absent,388,RIVER~SEA,0.00304878
+w2v_gnews,all_pairs,present,215,BLACK~DARK,0.0152439
+w2v_gnews,all_pairs,absent,215,RIVER~WATER,0.00304878
+w2v_gnews,all_pairs,absent,215,HOW~WHAT,0
+w2v_gnews,all_pairs,absent,215,THAT~THIS,0
+w2v_gnews,all_pairs,present,1360,LOOK~LOOK FOR,0.0655488
+w2v_gnews,all_pairs,absent,1360,LOOK FOR~WANT,0.222561
+w2v_gnews,all_pairs,absent,1360,BLACK~NIGHT,0.591463
+w2v_gnews,all_pairs,absent,1360,RAW~WET,0.164634
+w2v_gnews,all_pairs,present,1269,HUSBAND~MALE PERSON,0.0396341
+w2v_gnews,all_pairs,absent,1269,FAR~LONG,0.00304878
+w2v_gnews,all_pairs,absent,1269,GO~WALK,0.00762195
+w2v_gnews,all_pairs,absent,1269,BOY~CHILD (YOUNG HUMAN),0.00762195
+w2v_gnews,all_pairs,present,590,DAUGHTER~GIRL,0.0121951
+w2v_gnews,all_pairs,absent,590,CLOUD~SKY,0.00457317
+w2v_gnews,all_pairs,absent,590,FEATHER~HAIR,0.0472561
+w2v_gnews,all_pairs,absent,590,COME~GO,0.00152439
+w2v_gnews,all_pairs,present,1312,LANGUAGE~TONGUE,0.00609756
+w2v_gnews,all_pairs,absent,1312,NEW~RAW,0.208841
+w2v_gnews,all_pairs,absent,1312,MALE PERSON~PEOPLE,0.027439
+w2v_gnews,all_pairs,absent,1312,HOUSE~VILLAGE,0.00152439
+w2v_gnews,all_pairs,present,363,BURN (SOMETHING)~BURNING,0
+w2v_gnews,all_pairs,absent,363,BIG~THICK,0.39939
+w2v_gnews,all_pairs,absent,363,BLACK~DIRTY,0.157012
+w2v_gnews,all_pairs,absent,363,NAPE (OF NECK)~NECK,0.0198171
+w2v_gnews,all_pairs,present,1003,FLOW~RUN,0.27439
+w2v_gnews,all_pairs,absent,1003,CLEAN~WHITE,0.342988
+w2v_gnews,all_pairs,absent,1003,SPEAK~WORD,0.027439
+w2v_gnews,all_pairs,absent,1003,FOG~SMOKE (EXHAUST),0.00914634
+w2v_gnews,all_pairs,present,1213,HIDE (CONCEAL)~SKIN,0.317073
+w2v_gnews,all_pairs,absent,1213,HIDE (CONCEAL)~KILL,0.0533537
+w2v_gnews,all_pairs,absent,1213,CLAW~NEEDLE (FOR SEWING),0.195122
+w2v_gnews,all_pairs,absent,1213,FALL~SEW,0.635671
+w2v_gnews,all_pairs,present,136,BELLY~STOMACH,0.00609756
+w2v_gnews,all_pairs,absent,136,WHAT~WHY,0.00152439
+w2v_gnews,all_pairs,absent,136,RAIN (PRECIPITATION)~WATER,0.0259146
+w2v_gnews,all_pairs,absent,136,BITTER~SOUR,0
+w2v_gnews,all_pairs,present,331,BRAIN~HEAD,0.28811
+w2v_gnews,all_pairs,absent,331,HOW~WHO,0.0289634
+w2v_gnews,all_pairs,absent,331,FAR~HIGH,0.089939
+w2v_gnews,all_pairs,absent,331,BLUE~GREY,0.00457317
+w2v_gnews,all_pairs,present,1391,MALE PERSON~PERSON,0.00609756
+w2v_gnews,all_pairs,absent,1391,BLUE~GREEN,0.0106707
+w2v_gnews,all_pairs,present,1163,HARD~STRONG,0.0243902
+w2v_gnews,all_pairs,absent,1163,BEFORE~IN FRONT OF,0.11128
+w2v_gnews,all_pairs,absent,1163,FEW~SMALL,0.0411585
+w2v_gnews,all_pairs,absent,1163,POINTED~SHARP,0.0564024
+w2v_gnews,all_pairs,present,1086,GIRL~WOMAN,0.00304878
+w2v_gnews,all_pairs,absent,1086,HEAR~SMELL (PERCEIVE),0.0746951
+w2v_gnews,all_pairs,absent,1086,HALF~PART,0.135671
+w2v_gnews,all_pairs,absent,1086,FACE~FOREHEAD,0.0670732
+w2v_gnews,all_pairs,present,535,CORRECT (RIGHT)~RIGHT,0.00304878
+w2v_gnews,all_pairs,absent,535,CLEAN~GOOD,0.0823171
+w2v_gnews,all_pairs,absent,535,HE~THIS,0.0792683
+w2v_gnews,all_pairs,absent,535,EYE~SEED,0.89939
+w2v_gnews,all_pairs,present,616,DIE~FALL,0.182927
+w2v_gnews,all_pairs,absent,616,DIE~EAT,0.027439
+w2v_gnews,all_pairs,absent,616,DIE~HEAR,0.0655488
+w2v_gnews,all_pairs,absent,616,DIE~NOT,0.300305
+w2v_gnews,all_pairs,present,1623,SEED~STONE,0.407012
+w2v_gnews,all_pairs,absent,1623,BIRD~TONGUE,0.495427
+w2v_gnews,all_pairs,absent,1623,COUNT~TONGUE,0.789634
+w2v_gnews,all_pairs,absent,1623,DOG~SEED,0.699695
+w2v_gnews,all_pairs,present,343,BREAST~CHEST,0.0335366
+w2v_gnews,all_pairs,absent,343,CHILD (YOUNG HUMAN)~SON,0.0213415
+w2v_gnews,all_pairs,absent,343,GREEN~YELLOW,0.00609756
+w2v_gnews,all_pairs,absent,343,SMOOTH~SOFT,0.00304878
+w2v_gnews,all_pairs,present,1460,NARROW~THIN (OF SHAPE OF OBJECT),0.0121951
+w2v_gnews,all_pairs,absent,1460,BODY~SKIN,0.0320122
+w2v_gnews,all_pairs,absent,1460,NARROW~SMALL,0.00457317
+w2v_gnews,all_pairs,absent,1460,CHILD (YOUNG HUMAN)~GIRL,0.00914634
+w2v_gnews,all_pairs,present,375,BURNING~HOT,0.117378
+w2v_gnews,all_pairs,absent,375,ASK (INQUIRE)~HEAR,0.0167683
+w2v_gnews,all_pairs,absent,375,BIG~MOTHER,0.856707
+w2v_gnews,all_pairs,absent,375,HUNT~TAKE,0.460366
+w2v_gnews,all_pairs,present,960,FIRE~SHOOT,0.114329
+w2v_gnews,all_pairs,absent,960,ARM~FIVE,0.693598
+w2v_gnews,all_pairs,absent,960,ARM~HOUSE,0.419207
+w2v_gnews,all_pairs,absent,960,ARM~LAKE,0.804878
+w2v_gnews,all_pairs,present,1384,LOW~SHORT,0.0152439
+w2v_gnews,all_pairs,absent,1384,HIGH~LONG,0.0396341
+w2v_gnews,all_pairs,absent,1384,DRINK~EAT,0.00152439
+w2v_gnews,all_pairs,absent,1384,THAT~THERE,0.0167683
+w2v_gnews,all_pairs,present,1502,NOW~TODAY,0.00609756
+w2v_gnews,all_pairs,absent,1502,BIG~WIDE,0.0198171
+w2v_gnews,all_pairs,absent,1502,FEATHER~WING,0.11128
+w2v_gnews,all_pairs,absent,1502,KNOW (SOMETHING)~UNDERSTAND,0.00152439
+w2v_gnews,all_pairs,present,1618,SEE~UNDERSTAND,0.0137195
+w2v_gnews,all_pairs,absent,1618,FIND~UNDERSTAND,0.0167683
+w2v_gnews,all_pairs,absent,1618,AFTERWARDS~BACK,0.0914634
+w2v_gnews,all_pairs,absent,1618,EARTH (SOIL)~NEAR,0.702744
+w2v_gnews,no_input_colexified,present,393,CARRY~TAKE,0.00609756
+w2v_gnews,no_input_colexified,absent,393,BE ALIVE~SIT,0.992378
+w2v_gnews,no_input_colexified,absent,393,AFTERWARDS~BEHIND,0.262195
+w2v_gnews,no_input_colexified,present,1194,HIDE (CONCEAL)~SKIN,0.317073
+w2v_gnews,no_input_colexified,absent,1194,HIDE (CONCEAL)~KILL,0.0533537
+w2v_gnews,no_input_colexified,absent,1194,CLAW~NEEDLE (FOR SEWING),0.195122
+w2v_gnews,no_input_colexified,absent,1194,FALL~SEW,0.635671
+w2v_gnews,no_input_colexified,present,988,FLOW~RUN,0.27439
+w2v_gnews,no_input_colexified,absent,988,CLEAN~WHITE,0.342988
+w2v_gnews,no_input_colexified,absent,988,BLACK~BLUE,0.00762195
+w2v_gnews,no_input_colexified,absent,988,SPEAK~WORD,0.027439
+w2v_gnews,no_input_colexified,present,1070,GIRL~WOMAN,0.00304878
+w2v_gnews,no_input_colexified,absent,1070,LANGUAGE~SPEAK,0.0106707
+w2v_gnews,no_input_colexified,absent,1070,RIVER~SEA,0.00304878
+w2v_gnews,no_input_colexified,absent,1070,BIG~HIGH,0.0594512
+w2v_gnews,no_input_colexified,present,1248,HUSBAND~MALE PERSON,0.0396341
+w2v_gnews,no_input_colexified,absent,1248,FAR~LONG,0.00304878
+w2v_gnews,no_input_colexified,absent,1248,GO~WALK,0.00762195
+w2v_gnews,no_input_colexified,absent,1248,HIGH~LONG,0.0396341
+w2v_gnews,no_input_colexified,present,1338,LOOK~LOOK FOR,0.0655488
+w2v_gnews,no_input_colexified,absent,1338,LOOK FOR~WANT,0.222561
+w2v_gnews,no_input_colexified,absent,1338,RAW~WET,0.164634
+w2v_gnews,no_input_colexified,absent,1338,BLACK~NIGHT,0.591463
+w2v_gnews,no_input_colexified,present,1617,SHOOT~THROW,0.00457317
+w2v_gnews,no_input_colexified,absent,1617,THAT~THEY,0.0198171
+w2v_gnews,no_input_colexified,absent,1617,BITE~EAT,0.0228659
+w2v_gnews,no_input_colexified,present,1477,NOW~TODAY,0.00609756
+w2v_gnews,no_input_colexified,absent,1477,DRINK~EAT,0.00152439
+w2v_gnews,no_input_colexified,absent,1477,THAT~THERE,0.0167683
+w2v_gnews,no_input_colexified,absent,1477,BIG~WIDE,0.0198171
+w2v_gnews,no_input_colexified,present,1239,HUNT~LOOK FOR,0
+w2v_gnews,no_input_colexified,absent,1239,FIND~LOOK,0.00762195
+w2v_gnews,no_input_colexified,absent,1239,FAT (ORGANIC SUBSTANCE)~THICK,0.0579268
+w2v_gnews,no_input_colexified,absent,1239,BATHE~SWIM,0.00304878
+w2v_gnews,no_input_colexified,present,946,FIRE~SHOOT,0.114329
+w2v_gnews,no_input_colexified,absent,946,ARM~FIVE,0.693598
+w2v_gnews,no_input_colexified,absent,946,ARM~HOUSE,0.419207
+w2v_gnews,no_input_colexified,absent,946,ARM~LAKE,0.804878
+w2v_gnews,no_input_colexified,present,60,BACK~BEHIND,0.00762195
+w2v_gnews,no_input_colexified,absent,60,HEAR~KNOW (SOMETHING),0.0182927
+w2v_gnews,no_input_colexified,absent,60,GREEN~RAW,0.410061
+w2v_gnews,no_input_colexified,absent,60,SOFT~WEAK,0.00152439
+w2v_gnews,no_input_colexified,present,319,BOY~MALE PERSON,0.00304878
+w2v_gnews,no_input_colexified,absent,319,LAKE~WATER,0.00152439
+w2v_gnews,no_input_colexified,absent,319,FOUR~THREE,0
+w2v_gnews,no_input_colexified,absent,319,FLAT~WIDE,0.0609756
+w2v_gnews,no_input_colexified,present,1056,FOREST~WOOD,0
+w2v_gnews,no_input_colexified,absent,1056,AIR~SKY,0.0137195
+w2v_gnews,no_input_colexified,absent,1056,SEVEN~SIX,0.00304878
+w2v_gnews,no_input_colexified,absent,1056,TEN~TWENTY,0
+w2v_gnews,no_input_colexified,present,522,CORRECT (RIGHT)~GOOD,0.0365854
+w2v_gnews,no_input_colexified,absent,522,AIR~WIND,0.0365854
+w2v_gnews,no_input_colexified,absent,522,BEAUTIFUL~GOOD,0.0289634
+w2v_gnews,no_input_colexified,absent,522,WHAT~WHO,0.054878
+w2v_gnews,no_input_colexified,present,603,DIE~FALL,0.182927
+w2v_gnews,no_input_colexified,absent,603,DIE~EAT,0.027439
+w2v_gnews,no_input_colexified,absent,603,DIE~HEAR,0.0655488
+w2v_gnews,no_input_colexified,absent,603,DIE~NOT,0.300305
+w2v_gnews,no_input_colexified,present,368,BURNING~HOT,0.117378
+w2v_gnews,no_input_colexified,absent,368,HUNT~TAKE,0.460366
+w2v_gnews,no_input_colexified,absent,368,ASK (INQUIRE)~HEAR,0.0167683
+w2v_gnews,no_input_colexified,absent,368,OTHER~THEY,0.0411585
+w2v_gnews,no_input_colexified,present,326,BRAIN~HEAD,0.28811
+w2v_gnews,no_input_colexified,absent,326,HOW~WHO,0.0289634
+w2v_gnews,no_input_colexified,absent,326,FAR~HIGH,0.089939
+w2v_gnews,no_input_colexified,absent,326,BLUE~GREY,0.00457317
+w2v_gnews,no_input_colexified,present,1146,HARD~STRONG,0.0243902
+w2v_gnews,no_input_colexified,absent,1146,BEFORE~IN FRONT OF,0.11128
+w2v_gnews,no_input_colexified,absent,1146,FEW~SMALL,0.0411585
+w2v_gnews,no_input_colexified,absent,1146,POINTED~SHARP,0.0564024
+w2v_gnews,no_input_colexified,present,1100,GOOD~RIGHT,0.0198171
+w2v_gnews,no_input_colexified,absent,1100,BLOOD~RED,0.0762195
+w2v_gnews,no_input_colexified,present,525,CORRECT (RIGHT)~RIGHT,0.00304878
+w2v_gnews,no_input_colexified,absent,525,CLEAN~GOOD,0.0823171
+w2v_gnews,no_input_colexified,absent,525,EYE~SEED,0.89939
+w2v_gnews,no_input_colexified,absent,525,BLOW (OF WIND)~WIND,0.0625
+w2v_gnews,no_input_colexified,present,338,BREAST~CHEST,0.0335366
+w2v_gnews,no_input_colexified,absent,338,CHILD (YOUNG HUMAN)~SON,0.0213415
+w2v_gnews,no_input_colexified,absent,338,GREEN~YELLOW,0.00609756
+w2v_gnews,no_input_colexified,absent,338,SMOOTH~SOFT,0.00304878
+w2v_gnews,no_input_colexified,present,1361,LOW~SHORT,0.0152439
+w2v_gnews,no_input_colexified,absent,1361,KNOW (SOMETHING)~UNDERSTAND,0.00152439
+w2v_gnews,no_input_colexified,absent,1361,FEATHER~WING,0.11128
+w2v_gnews,no_input_colexified,present,822,EVENING~NIGHT,0
+w2v_gnews,no_input_colexified,absent,822,EARTH (SOIL)~SAND,0.00609756
+w2v_gnews,no_input_colexified,absent,822,MOUNTAIN~STONE,0.0396341
+w2v_gnews,no_input_colexified,absent,822,LEG~UPPER LEG (THIGH),0.00152439
+w2v_gnews,no_input_colexified,present,1596,SEED~STONE,0.407012
+w2v_gnews,no_input_colexified,absent,1596,BIRD~TONGUE,0.495427
+w2v_gnews,no_input_colexified,absent,1596,COUNT~TONGUE,0.789634
+w2v_gnews,no_input_colexified,absent,1596,DOG~SEED,0.699695
+w2v_gnews,no_input_colexified,present,1368,MALE PERSON~PERSON,0.00609756
+w2v_gnews,no_input_colexified,absent,1368,THAT~THIS,0
+w2v_gnews,no_input_colexified,absent,1368,RIVER~WATER,0.00304878
+w2v_gnews,no_input_colexified,absent,1368,BLUE~GREEN,0.0106707
+w2v_gnews,no_input_colexified,present,356,BRING~TAKE,0.0137195
+w2v_gnews,no_input_colexified,absent,356,RED~RIPE,0.39939
+w2v_gnews,no_input_colexified,absent,356,BEAUTIFUL~CLEAN,0.054878
+w2v_gnews,no_input_colexified,absent,356,FOREST~TREE,0.00457317
+w2v_gnews,no_input_colexified,present,322,BOY~SON,0.0137195
+w2v_gnews,no_input_colexified,absent,322,HUSBAND~WIFE,0
+w2v_gnews,no_input_colexified,absent,322,HOW~WHY,0.00304878
+w2v_gnews,no_input_colexified,absent,322,BELOW OR UNDER~LOW,0.169207
+w2v_gnews,no_input_colexified,present,212,BLACK~DARK,0.0152439
+w2v_gnews,no_input_colexified,absent,212,HOW~WHAT,0
+w2v_gnews,no_input_colexified,present,1591,SEE~UNDERSTAND,0.0137195
+w2v_gnews,no_input_colexified,absent,1591,FIND~UNDERSTAND,0.0167683
+w2v_gnews,no_input_colexified,absent,1591,GIRL~YOUNG,0.0289634
+w2v_gnews,no_input_colexified,absent,1591,CLOUD~NIGHT,0.245427

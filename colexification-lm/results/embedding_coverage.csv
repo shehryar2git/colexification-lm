@@ -1,0 +1,7 @@
+condition,status,n_embedded,n_missing,missing_concepts,command
+w2v_gnews,done,426,1,AND,
+bert_base,PENDING USER RUN,,,,pip install -r requirements.txt; python -m src.embeddings.contextual
+xlmr_base,PENDING USER RUN,,,,pip install -r requirements.txt; python -m src.embeddings.contextual
+labse,PENDING USER RUN,,,,pip install -r requirements.txt; python -m src.embeddings.contextual
+xlmr_translated,PENDING USER RUN,,,,pip install -r requirements.txt; python -m src.embeddings.translated_input
+labse_translated,PENDING USER RUN,,,,pip install -r requirements.txt; python -m src.embeddings.translated_input

@@ -1,0 +1,34 @@
+{
+  "rule": "highest trustworthiness (k=10), ties -> lower stress-1",
+  "chosen": "mds_metric",
+  "umap_status": "PENDING USER RUN",
+  "note": "If UMAP is installed the choice is re-made on the full set of methods; results/dr_quality.csv is authoritative.",
+  "concept_lexeme_pca": {
+    "n_lexemes": 31153,
+    "explained_variance_ratio": [
+      0.01731369992186937,
+      0.015236306361600645
+    ],
+    "agreement_with_typological_distance": {
+      "stress1": 0.9836965519277014,
+      "shepard_spearman": -0.2687778695060801,
+      "trustworthiness": 0.5151119622419591
+    }
+  },
+  "n_concepts_embedded": 415,
+  "n_pairs": 85905,
+  "isolated_concepts_omitted": [
+    "BREAK (BREAKING)",
+    "CRUSH",
+    "DOVE",
+    "FART",
+    "HUNDRED",
+    "ISLAND",
+    "MAIZE",
+    "OWL",
+    "SCARED",
+    "SPRING (OF WATER)",
+    "SWEAT (PERSPIRE)",
+    "SWEAT (SUBSTANCE)"
+  ]
+}

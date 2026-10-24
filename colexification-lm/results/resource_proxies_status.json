@@ -1,0 +1,4 @@
+{
+  "joshi_class_status": "PROVISIONAL: 37 languages whose class the paper states (lower bounds per family); for the full taxonomy place lang2tax.txt at data/raw/joshi/lang2tax.txt",
+  "wikipedia_log10_articles_status": "PENDING USER RUN: `python run.py analyse` with internet access (query.wikidata.org, meta.wikimedia.org, *.wikipedia.org)"
+}

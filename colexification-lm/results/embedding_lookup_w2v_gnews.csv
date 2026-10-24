@@ -1,0 +1,428 @@
+concept_id,gloss,rule,key,vocab_rank
+ABOVE,above,exact,above,894
+AFTERWARDS,afterwards,exact,afterwards,9947
+AGAIN,again,exact,again,333
+AIR,air,exact,air,844
+ALL,all,exact,all,52
+AND,and,missing,,
+ANGRY,angry,exact,angry,3808
+ANIMAL,animal,exact,animal,2801
+ANKLE,ankle,exact,ankle,4838
+ANT,ant,exact,ant,40466
+ARM,arm,exact,arm,2430
+ARMPIT,armpit,exact,armpit,75885
+ARROW,arrow,exact,arrow,23258
+ASH,ash,exact,ash,13085
+ASK (INQUIRE),ask,exact,ask,1111
+AXE,axe,spelling_variant,ax,13570
+BACK,back,exact,back,95
+BAD,bad,exact,bad,706
+BARK,bark,exact,bark,23599
+BASKET,basket,exact,basket,4490
+BAT,bat,exact,bat,3979
+BATHE,bathe,exact,bathe,44238
+BE ALIVE,alive,exact,alive,2849
+BEARD,beard,exact,beard,17039
+BEAT,beat,exact,beat,747
+BEAUTIFUL,beautiful,exact,beautiful,2814
+BECAUSE,because,exact,because,96
+BED,bed,exact,bed,3126
+BEE,bee,exact,bee,21990
+BEFORE,before,exact,before,99
+BEHIND,behind,exact,behind,474
+BELLY,belly,exact,belly,15343
+BELOW OR UNDER,under,exact,under,163
+BESIDE,beside,exact,beside,8938
+BETWEEN,between,exact,between,171
+BIG,big,exact,big,276
+BIRD,bird,exact,bird,6510
+BITE,bite,exact,bite,7586
+BITTER,bitter,exact,bitter,6740
+BLACK,black,exact,black,987
+BLOOD,blood,exact,blood,1574
+BLOW (OF WIND),blow,exact,blow,3252
+BLUE,blue,exact,blue,2836
+BLUNT,blunt,exact,blunt,14451
+BODY,body,exact,body,772
+BONE,bone,exact,bone,6606
+BOW,bow,exact,bow,9868
+BOY,boy,exact,boy,1556
+BRAIN,brain,exact,brain,2760
+BRANCH,branch,exact,branch,3719
+BREAK (BREAKING),break,exact,break,843
+BREAK (CLEAVE),cleave,exact,cleave,160744
+BREAST,breast,exact,breast,10414
+BREATHE,breathe,exact,breathe,11018
+BRING,bring,exact,bring,634
+BROOM,broom,exact,broom,40525
+BURN (SOMETHING),burn,exact,burn,5566
+BURNING,burning,exact,burning,4340
+BUTTERFLY,butterfly,exact,butterfly,15043
+BUTTOCKS,buttocks,exact,buttocks,30926
+BUY,buy,exact,buy,753
+CANOE,canoe,exact,canoe,23367
+CARRY,carry,exact,carry,1635
+CAT,cat,exact,cat,5947
+CHEEK,cheek,exact,cheek,14302
+CHEST,chest,exact,chest,5204
+CHEW,chew,exact,chew,25718
+CHICKEN,chicken,exact,chicken,6108
+CHIEFTAIN,chief,exact,chief,714
+CHILD (DESCENDANT),offspring,exact,offspring,17519
+CHILD (YOUNG HUMAN),child,exact,child,795
+CHIN,chin,exact,chin,16382
+CLAW,claw,exact,claw,22993
+CLEAN,clean,exact,clean,1749
+CLIMB,climb,exact,climb,4977
+CLOTHES,clothes,exact,clothes,3874
+CLOUD,cloud,exact,cloud,5202
+COLD,cold,exact,cold,2312
+COME,come,exact,come,216
+COOK (SOMETHING),cook,exact,cook,7022
+CORRECT (RIGHT),correct,exact,correct,3660
+COUGH,cough,exact,cough,17902
+COUNT,count,exact,count,1950
+CROOKED,crooked,exact,crooked,31787
+CRUSH,crush,exact,crush,11122
+CRY,cry,exact,cry,7309
+CUT,cut,exact,cut,529
+DANCE,dance,exact,dance,2676
+DARK,dark,exact,dark,2853
+DAUGHTER,daughter,exact,daughter,1211
+DAY (NOT NIGHT),day,exact,day,113
+DEEP,deep,exact,deep,1561
+DEER,deer,exact,deer,7303
+DIE,die,exact,die,2736
+DIG,dig,exact,dig,8158
+DIRTY,dirty,exact,dirty,7062
+DO,do,exact,do,58
+DOG,dog,exact,dog,2043
+DOOR,door,exact,door,1329
+DOVE,dove,exact,dove,20483
+DREAM (SOMETHING),dream,exact,dream,2768
+DRINK,drink,exact,drink,3554
+DRUM,drum,exact,drum,11321
+DRY,dry,exact,dry,3636
+DUCK,duck,exact,duck,11539
+DUST,dust,exact,dust,6417
+EAR,ear,exact,ear,8461
+EARTH (SOIL),soil,exact,soil,4699
+EAT,eat,exact,eat,2785
+EGG,egg,exact,egg,9757
+EIGHT,eight,exact,eight,439
+ELBOW,elbow,exact,elbow,7222
+ELEVEN,eleven,exact,eleven,12100
+EMPTY,empty,exact,empty,3726
+EVENING,evening,exact,evening,1382
+EYE,eye,exact,eye,2050
+FACE,face,exact,face,501
+FALL,fall,exact,fall,707
+FAR,far,exact,far,353
+FART,fart,exact,fart,79068
+FAST,fast,exact,fast,1289
+FAT (ORGANIC SUBSTANCE),fat,exact,fat,4560
+FATHER,father,exact,father,913
+FEAR (BE AFRAID),fear,exact,fear,1898
+FEATHER,feather,exact,feather,27761
+FENCE,fence,exact,fence,5020
+FEW,few,exact,few,278
+FIGHT,fight,exact,fight,821
+FIND,find,exact,find,359
+FINGER,finger,exact,finger,5777
+FINGERNAIL,fingernail,exact,fingernail,70076
+FIRE,fire,exact,fire,544
+FIREWOOD,firewood,exact,firewood,32962
+FISH,fish,exact,fish,2388
+FIVE,five,exact,five,161
+FLAT,flat,exact,flat,2532
+FLEA,flea,exact,flea,29012
+FLESH,flesh,exact,flesh,13077
+FLOW,flow,exact,flow,3027
+FLOWER,flower,exact,flower,11289
+FLY (INSECT),housefly,exact,housefly,389311
+FLY (MOVE THROUGH AIR),fly,exact,fly,2512
+FOG,fog,exact,fog,13506
+FOOT,foot,exact,foot,1099
+FOREHEAD,forehead,exact,forehead,17911
+FOREST,forest,exact,forest,5201
+FOUR,four,exact,four,134
+FRIEND,friend,exact,friend,1269
+FROG,frog,exact,frog,26099
+FRUIT,fruit,exact,fruit,5169
+FULL,full,exact,full,335
+GIRL,girl,exact,girl,1408
+GIVE,give,exact,give,331
+GO,go,exact,go,152
+GOOD,good,exact,good,127
+GRANDFATHER,grandfather,exact,grandfather,7286
+GRANDMOTHER,grandmother,exact,grandmother,6547
+GRASS,grass,exact,grass,5376
+GREEN,green,exact,green,1516
+GREY,grey,spelling_variant,gray,6530
+GROW,grow,exact,grow,1532
+GUN,gun,exact,gun,2184
+HAIR,hair,exact,hair,3227
+HAIR (BODY),body hair,token_mean,body+hair,1999.5
+HAIR (HEAD),head hair,token_mean,head+hair,1800.5
+HALF,half,exact,half,242
+HAND,hand,exact,hand,660
+HAPPY,happy,exact,happy,1049
+HARD,hard,exact,hard,387
+HE,he,exact,he,22
+HEAD,head,exact,head,374
+HEAR,hear,exact,hear,1364
+HEART,heart,exact,heart,1089
+HEAVY,heavy,exact,heavy,1701
+HEEL,heel,exact,heel,16679
+HERE,here,exact,here,227
+HIDE (CONCEAL),conceal,exact,conceal,17670
+HIDE (ONESELF),hide,exact,hide,5784
+HIGH,high,exact,high,144
+HILL,hill,exact,hill,7313
+HOLD,hold,exact,hold,748
+HONEY,honey,exact,honey,13981
+HORN (ANATOMY),horn,exact,horn,15951
+HORSE,horse,exact,horse,3267
+HOT,hot,exact,hot,1705
+HOUSE,house,exact,house,541
+HOW,how,exact,how,139
+HUNDRED,hundred,exact,hundred,3906
+HUNT,hunt,exact,hunt,5501
+HUSBAND,husband,exact,husband,1292
+I,I,exact,I,20
+IF,if,exact,if,88
+IN,in,exact,in,1
+IN FRONT OF,in front of,token_mean,front,597
+INSIDE,inside,exact,inside,898
+INTESTINES,intestines,exact,intestines,38705
+ISLAND,island,exact,island,2530
+IT,it,exact,it,15
+KILL,kill,exact,kill,2176
+KNEE,knee,exact,knee,2939
+KNIFE,knife,exact,knife,6194
+KNOW (SOMETHING),know,exact,know,177
+LAKE,lake,exact,lake,5140
+LANGUAGE,language,exact,language,1828
+LAUGH,laugh,exact,laugh,5585
+LEAF,leaf,exact,leaf,15962
+LEFT,left,exact,left,196
+LEG,leg,exact,leg,2373
+LIE DOWN,lie down,token_mean,lie+down,2398.5
+LIGHT (COLOR),pale,exact,pale,17534
+LIGHT (RADIATION),light,exact,light,1056
+LIGHT (WEIGHT),lightweight,exact,lightweight,11125
+LIGHTNING,lightning,exact,lightning,10315
+LIP,lip,exact,lip,15016
+LIVER,liver,exact,liver,10599
+LONG,long,exact,long,180
+LOOK,look,exact,look,329
+LOOK FOR,search,exact,search,1100
+LOUD,loud,exact,loud,6092
+LOUSE,louse,exact,louse,168748
+LOVE,love,exact,love,746
+LOW,low,exact,low,502
+LOWER ARM,forearm,exact,forearm,20001
+LOWER LEG,shin,exact,shin,30191
+LUNG,lung,exact,lung,14085
+MAIZE,maize,exact,maize,21577
+MALE PERSON,man,exact,man,251
+MANY,many,exact,many,131
+MEAT,meat,exact,meat,4223
+MEDICINE,medicine,exact,medicine,4011
+MILK,milk,exact,milk,4806
+MOON,moon,exact,moon,6026
+MORNING,morning,exact,morning,565
+MOSQUITO,mosquito,exact,mosquito,23897
+MOTHER,mother,exact,mother,852
+MOUNTAIN,mountain,exact,mountain,4890
+MOUTH,mouth,exact,mouth,4316
+NAME,name,exact,name,521
+NAPE (OF NECK),nape,exact,nape,169195
+NARROW,narrow,exact,narrow,4950
+NAVEL,navel,exact,navel,80099
+NEAR,near,exact,near,420
+NECK,neck,exact,neck,4064
+NEEDLE (FOR SEWING),needle,exact,needle,15980
+NEW,new,exact,new,65
+NIGHT,night,exact,night,221
+NINE,nine,exact,nine,595
+NIPPLE,nipple,exact,nipple,65032
+NO,no,exact,no,86
+NOSE,nose,exact,nose,6001
+NOT,not,exact,not,13
+NOTHING,nothing,exact,nothing,773
+NOW,now,exact,now,97
+OLD (AGED),old,exact,old,154
+OLD (USED),worn,exact,worn,7053
+OLD MAN,old man,token_mean,old+man,202.5
+OLD WOMAN,old woman,token_mean,old+woman,397.5
+ONE,one,exact,one,45
+OPEN,open,exact,open,341
+OTHER,other,exact,other,66
+OUTSIDE,outside,exact,outside,586
+OWL,owl,exact,owl,38534
+PART,part,exact,part,186
+PATH,path,exact,path,2667
+PENIS,penis,exact,penis,26122
+PEOPLE,people,exact,people,68
+PERSON,person,exact,person,571
+PIG,pig,exact,pig,13283
+PISS,piss,exact,piss,42644
+PLAY,play,exact,play,172
+POINTED,pointed,exact,pointed,2503
+POT,pot,exact,pot,7145
+PULL,pull,exact,pull,2212
+PUSH,push,exact,push,1683
+QUIET,quiet,exact,quiet,3618
+RAIN (PRECIPITATION),rain,exact,rain,2272
+RAINBOW,rainbow,exact,rainbow,23857
+RAW,raw,exact,raw,7219
+RED,red,exact,red,1618
+RIGHT,right,exact,right,168
+RIPE,ripe,exact,ripe,15215
+RIVER,river,exact,river,3257
+ROAD,road,exact,road,635
+ROOF,roof,exact,roof,3746
+ROOT,root,exact,root,7267
+ROPE,rope,exact,rope,11397
+ROTTEN,rotten,exact,rotten,25630
+ROUGH,rough,exact,rough,4876
+ROUND,round,exact,round,532
+RUB,rub,exact,rub,18415
+RUN,run,exact,run,209
+SAD,sad,exact,sad,4067
+SALT,salt,exact,salt,6539
+SALTY,salty,exact,salty,27959
+SAME,same,exact,same,207
+SAND,sand,exact,sand,6131
+SAY,say,exact,say,159
+SCARED,scared,exact,scared,6037
+SCRATCH,scratch,exact,scratch,8788
+SEA,sea,exact,sea,2854
+SEE,see,exact,see,158
+SEED,seed,exact,seed,3251
+SEVEN,seven,exact,seven,375
+SEW,sew,exact,sew,37009
+SHADE,shade,exact,shade,12096
+SHALLOW,shallow,exact,shallow,10644
+SHARP,sharp,exact,sharp,3266
+SHE,she,exact,she,74
+SHIT (DEFECATE),defecate,exact,defecate,112247
+SHOE,shoe,exact,shoe,9069
+SHOOT,shoot,exact,shoot,3168
+SHORT,short,exact,short,585
+SHOULDER,shoulder,exact,shoulder,2845
+SICK,sick,exact,sick,3560
+SING,sing,exact,sing,6008
+SIT,sit,exact,sit,2234
+SIX,six,exact,six,222
+SKIN,skin,exact,skin,3518
+SKY,sky,exact,sky,5699
+SLEEP,sleep,exact,sleep,3629
+SLOW,slow,exact,slow,1803
+SMALL,small,exact,small,428
+SMELL (PERCEIVE),smell,exact,smell,7715
+SMELL (STINK),stink,exact,stink,29998
+SMOKE (EXHAUST),smoke,exact,smoke,3595
+SMOOTH,smooth,exact,smooth,6077
+SNAKE,snake,exact,snake,14786
+SNEEZE,sneeze,exact,sneeze,44214
+SNORE,snore,exact,snore,107128
+SOFT,soft,exact,soft,4150
+SOME,some,exact,some,78
+SON,son,exact,son,831
+SOUR,sour,exact,sour,14607
+SPEAK,speak,exact,speak,1627
+SPEAR,spear,exact,spear,39691
+SPIDER,spider,exact,spider,31540
+SPIT,spit,exact,spit,18735
+SPLIT,split,exact,split,2550
+SPRING (OF WATER),spring,exact,spring,1312
+SQUEEZE,squeeze,exact,squeeze,8904
+STAND,stand,exact,stand,1168
+STAR,star,exact,star,948
+STEAL,steal,exact,steal,5358
+STICK,stick,exact,stick,3393
+STOMACH,stomach,exact,stomach,7024
+STONE,stone,exact,stone,6128
+STRAIGHT,straight,exact,straight,745
+STRIKE,strike,exact,strike,1628
+STRONG,strong,exact,strong,465
+SUCK,suck,exact,suck,16833
+SUGAR CANE,sugarcane,exact,sugarcane,37278
+SUN,sun,exact,sun,4128
+SWEAT (PERSPIRE),perspire,exact,perspire,218855
+SWEAT (SUBSTANCE),sweat,exact,sweat,11441
+SWEET,sweet,exact,sweet,5115
+SWIM,swim,exact,swim,6920
+TAIL,tail,exact,tail,9293
+TAKE,take,exact,take,142
+TASTE,taste,exact,taste,4386
+TEN,ten,exact,ten,2411
+TESTICLES,testicles,exact,testicles,56924
+THAT,that,exact,that,3
+THATCH,thatch,exact,thatch,104566
+THEN,then,exact,then,145
+THERE,there,exact,there,72
+THEY,they,exact,they,32
+THICK,thick,exact,thick,6413
+THIN (OF SHAPE OF OBJECT),thin,exact,thin,5160
+THIN (SLIM),slim,exact,slim,8617
+THINK (BELIEVE),believe,exact,believe,480
+THINK (REFLECT),think,exact,think,153
+THIS,this,exact,this,28
+THREE,three,exact,three,80
+THROAT,throat,exact,throat,9696
+THROW,throw,exact,throw,1834
+THUNDER,thunder,exact,thunder,22681
+TIE,tie,exact,tie,1930
+TOBACCO,tobacco,exact,tobacco,5256
+TODAY,today,exact,today,205
+TOE,toe,exact,toe,9345
+TOMORROW,tomorrow,exact,tomorrow,1936
+TONGUE,tongue,exact,tongue,11069
+TOOTH,tooth,exact,tooth,17803
+TOUCH,touch,exact,touch,2435
+TREE,tree,exact,tree,3150
+TURN (SOMETHING),turn,exact,turn,749
+TURN AROUND,turn around,token_mean,turn+around,468
+TURTLE,turtle,exact,turtle,24360
+TWELVE,twelve,exact,twelve,9208
+TWENTY,twenty,exact,twenty,7535
+TWO,two,exact,two,54
+UGLY,ugly,exact,ugly,7026
+UNDERSTAND,understand,exact,understand,1136
+UPPER ARM,upper arm,token_mean,upper+arm,3346
+UPPER LEG (THIGH),thigh,exact,thigh,15169
+VILLAGE,village,exact,village,2255
+VOMIT,vomit,exact,vomit,36385
+VULVA,vulva,exact,vulva,221905
+WALK,walk,exact,walk,1505
+WANT,want,exact,want,189
+WARM,warm,exact,warm,3157
+WASH,wash,exact,wash,8514
+WATER,water,exact,water,393
+WEAK,weak,exact,weak,2611
+WET,wet,exact,wet,5893
+WHAT,what,exact,what,83
+WHEN,when,exact,when,61
+WHERE,where,exact,where,117
+WHITE,white,exact,white,1191
+WHO,who,exact,who,31
+WHY,why,exact,why,540
+WIDE,wide,exact,wide,1694
+WIFE,wife,exact,wife,783
+WIND,wind,exact,wind,2298
+WING,wing,exact,wing,3100
+WOMAN,woman,exact,woman,641
+WOOD,wood,exact,wood,4975
+WORD,word,exact,word,1563
+WORK (ACTIVITY),work,exact,work,141
+WORM,worm,exact,worm,16719
+WRONG,wrong,exact,wrong,1242
+YAWN,yawn,exact,yawn,57520
+YEAR,year,exact,year,36
+YELLOW,yellow,exact,yellow,5043
+YESTERDAY,yesterday,exact,yesterday,616
+YOU,you,exact,you,43
+YOUNG,young,exact,young,533

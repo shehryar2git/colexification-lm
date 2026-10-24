@@ -1,0 +1,6 @@
+resolution,n_communities_median,ari_to_reference_median
+0.5,20,0.675994
+0.75,25,0.835912
+1,29,0.911759
+1.5,40,0.543941
+2,44,0.463052

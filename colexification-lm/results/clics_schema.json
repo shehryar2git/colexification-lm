@@ -1,0 +1,48 @@
+{
+  "source": "https://github.com/clics/clics4 @ v1.0 (1ddece619d026d7fc11a4dcab3fa71ecd059efe7)",
+  "reader": "metadata-pandas",
+  "schema": {
+    "FormTable": {
+      "url": "forms.csv",
+      "columns": {
+        "form_id": "ID",
+        "variety_id": "Language_ID",
+        "parameter_id": "Parameter_ID",
+        "form": "Form",
+        "segments": "Segments",
+        "value": "Value",
+        "local_id": "Local_ID"
+      }
+    },
+    "LanguageTable": {
+      "url": "languages.csv",
+      "columns": {
+        "variety_id": "ID",
+        "variety_name": "Name",
+        "glottocode": "Glottocode",
+        "iso639_3": "ISO639P3code",
+        "clics_macroarea": "Macroarea",
+        "clics_latitude": "Latitude",
+        "clics_longitude": "Longitude",
+        "contribution_id": "Contribution_ID",
+        "clics_family": "Family",
+        "clics_family_name": "Family_Name"
+      }
+    },
+    "ParameterTable": {
+      "url": "concepts.csv",
+      "columns": {
+        "parameter_id": "ID",
+        "concepticon_id": "Concepticon_ID",
+        "concepticon_gloss": "Concepticon_Gloss",
+        "clics_language_count": "Language_Count",
+        "clics_family_count": "Family_Count"
+      }
+    }
+  },
+  "n_forms": 1449893,
+  "n_varieties": 3447,
+  "n_varieties_with_forms": 3447,
+  "n_concepts": 1730,
+  "n_contributions": 95
+}

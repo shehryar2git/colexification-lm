@@ -1,0 +1,5 @@
+method,status,iterations,note,stress1,shepard_spearman,trustworthiness,chosen
+pca,done,0,"axes explain 0.083, 0.071",0.409299,0.459614,0.742664,False
+mds_metric,done,296,final raw stress 0.0897; converged,0.299419,0.744459,0.787993,True
+mds_nonmetric,done,617,final raw stress 0.0817; converged,0.315069,0.785193,0.778777,False
+umap,PENDING USER RUN,0,pip install umap-learn==0.5.6; python run.py network,,,,False

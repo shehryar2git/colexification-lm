@@ -1,0 +1,11 @@
+{
+  "n_pairs_recount": 51562,
+  "n_pairs_clics": 51562,
+  "n_pairs_only_recount": 0,
+  "n_pairs_only_clics": 0,
+  "share_variety_count_equal": 1.0,
+  "share_language_count_equal": 1.0,
+  "share_family_count_equal": 1.0,
+  "max_abs_family_count_diff": 0,
+  "examples_of_disagreement": []
+}

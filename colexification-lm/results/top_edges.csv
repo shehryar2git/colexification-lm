@@ -1,0 +1,51 @@
+concept_a,concept_b,gloss_a,gloss_b,n_families,n_languages,cov_families,rate_families,families
+LOWER ARM,UPPER ARM,forearm,upper arm,199,217,207,0.961353,Abkhaz-Adyge; Abun; Afro-Asiatic; Ainu; Algic; Angan
+OLD (AGED),OLD (USED),old,worn,187,212,201,0.930348,Abkhaz-Adyge; Afro-Asiatic; Ainu; Algic; Alsea-Yaquina; Angan
+HAND,LOWER ARM,hand,forearm,71,75,208,0.341346,Abun; Afro-Asiatic; Algic; Angan; Arawan; Atlantic-Congo
+BLUE,GREEN,blue,green,70,152,177,0.39548,Abkhaz-Adyge; Afro-Asiatic; Ainu; Algic; Alsea-Yaquina; Arawakan
+DAY (NOT NIGHT),SUN,day,sun,67,200,215,0.311628,Abun; Afro-Asiatic; Alsea-Yaquina; Araucanian; Arawakan; Atlantic-Congo
+HAND,UPPER ARM,hand,upper arm,67,68,205,0.326829,Abun; Algic; Angan; Arawan; Atlantic-Congo; Austroasiatic
+BARK,SKIN,bark,skin,62,166,208,0.298077,Abkhaz-Adyge; Afro-Asiatic; Ainu; Arawakan; Arawan; Atakapa
+FOOT,LOWER LEG,foot,shin,60,60,211,0.28436,Abun; Afro-Asiatic; Ainu; Algic; Angan; Atlantic-Congo
+WIFE,WOMAN,wife,woman,59,259,135,0.437037,Abkhaz-Adyge; Afro-Asiatic; Ainu; Anim; Araucanian; Arawakan
+RIVER,WATER,river,water,58,157,222,0.261261,Abun; Afro-Asiatic; Angan; Arawakan; Arawan; Atlantic-Congo
+BLACK,DARK,black,dark,58,103,204,0.284314,Ainu; Algic; Araucanian; Arawakan; Austronesian; Barbacoan
+LOWER LEG,UPPER LEG (THIGH),shin,thigh,58,59,216,0.268519,Abkhaz-Adyge; Abun; Aymaran; Boran; Caddoan; Cahuapanan
+TREE,WOOD,tree,wood,57,245,84,0.678571,Abkhaz-Adyge; Afro-Asiatic; Ainu; Araucanian; Arawakan; Atlantic-Congo
+BREAST,MILK,breast,milk,56,165,188,0.297872,Afro-Asiatic; Angan; Atakapa; Atlantic-Congo; Austroasiatic; Austronesian
+MALE PERSON,PERSON,man,person,55,177,214,0.257009,Afro-Asiatic; Ainu; Anim; Arawakan; Atakapa; Austronesian
+CLAW,FINGERNAIL,claw,fingernail,53,195,77,0.688312,Afro-Asiatic; Ainu; Araucanian; Arawakan; Atlantic-Congo; Austroasiatic
+NECK,THROAT,neck,throat,50,131,203,0.246305,Abkhaz-Adyge; Afro-Asiatic; Araucanian; Arawakan; Arawan; Atlantic-Congo
+FLESH,MEAT,flesh,meat,49,216,65,0.753846,Afro-Asiatic; Arawakan; Atlantic-Congo; Austroasiatic; Austronesian; Aymaran
+ARM,HAND,arm,hand,47,173,102,0.460784,Afro-Asiatic; Ainu; Arawakan; Atlantic-Congo; Austroasiatic; Austronesian
+STICK,TREE,stick,tree,47,123,84,0.559524,Arawakan; Athabaskan-Eyak-Tlingit; Atlantic-Congo; Austroasiatic; Austronesian; Barbacoan
+LANGUAGE,WORD,language,word,47,100,71,0.661972,Afro-Asiatic; Arawakan; Athabaskan-Eyak-Tlingit; Austroasiatic; Austronesian; Aymaran
+FOOT,LEG,foot,leg,46,224,106,0.433962,Afro-Asiatic; Ainu; Athabaskan-Eyak-Tlingit; Atlantic-Congo; Austroasiatic; Austronesian
+PATH,ROAD,path,road,46,106,71,0.647887,Afro-Asiatic; Arawakan; Atlantic-Congo; Austroasiatic; Austronesian; Aymaran
+FEATHER,WING,feather,wing,45,125,212,0.212264,Afro-Asiatic; Ainu; Arawakan; Arawan; Athabaskan-Eyak-Tlingit; Austroasiatic
+AIR,WIND,air,wind,45,65,116,0.387931,Afro-Asiatic; Araucanian; Arawakan; Austroasiatic; Austronesian; Barbacoan
+CORRECT (RIGHT),GOOD,correct,good,44,87,176,0.25,Ainu; Araucanian; Arawakan; Austroasiatic; Austronesian; Barbacoan
+KILL,STRIKE,kill,strike,43,112,226,0.190265,Abun; Afro-Asiatic; Anim; Arawakan; Atlantic-Congo; Austronesian
+POINTED,SHARP,pointed,sharp,42,109,109,0.385321,Abkhaz-Adyge; Afro-Asiatic; Ainu; Araucanian; Austroasiatic; Austronesian
+CLOUD,FOG,cloud,fog,41,149,125,0.328,Afro-Asiatic; Ainu; Arawakan; Atlantic-Congo; Austroasiatic; Austronesian
+FINGER,TOE,finger,toe,39,129,168,0.232143,Abkhaz-Adyge; Afro-Asiatic; Ainu; Atlantic-Congo; Austronesian; Candoshi-Shapra
+BAD,UGLY,bad,ugly,39,59,136,0.286765,Afro-Asiatic; Arawakan; Atlantic-Congo; Austroasiatic; Austronesian; Ongota
+CORRECT (RIGHT),STRAIGHT,correct,straight,38,109,154,0.246753,Afro-Asiatic; Arawakan; Austronesian; Aymaran; Barbacoan; Basque
+THAT,THIS,that,this,38,74,220,0.172727,Afro-Asiatic; Atlantic-Congo; Austroasiatic; Austronesian; Bangime; Boran
+NAPE (OF NECK),NECK,nape,neck,38,73,96,0.395833,Afro-Asiatic; Arawakan; Atlantic-Congo; Austroasiatic; Barbacoan; Boran
+BEAUTIFUL,GOOD,beautiful,good,37,112,163,0.226994,Afro-Asiatic; Ainu; Arawakan; Athabaskan-Eyak-Tlingit; Atlantic-Congo; Austroasiatic
+BITTER,SOUR,bitter,sour,37,66,163,0.226994,Alsea-Yaquina; Atakapa; Atlantic-Congo; Austronesian; Chonan; Eastern Jebel
+LOOK,SEE,look,see,36,152,83,0.433735,Afro-Asiatic; Arawakan; Atlantic-Congo; Austronesian; Barbacoan; Cariban
+FEATHER,HAIR,feather,hair,36,115,207,0.173913,Afro-Asiatic; Alsea-Yaquina; Atlantic-Congo; Austroasiatic; Austronesian; Bangime
+HOW,WHAT,how,what,36,64,211,0.170616,Afro-Asiatic; Algic; Arawakan; Arawan; Athabaskan-Eyak-Tlingit; Austronesian
+LIE DOWN,SLEEP,lie down,sleep,35,183,214,0.163551,Afro-Asiatic; Atlantic-Congo; Austroasiatic; Austronesian; Bosavi; Cariban
+GO,WALK,go,walk,35,174,96,0.364583,Abkhaz-Adyge; Afro-Asiatic; Anim; Arawakan; Austroasiatic; Austronesian
+HUSBAND,MALE PERSON,husband,man,35,162,114,0.307018,Abkhaz-Adyge; Afro-Asiatic; Araucanian; Athabaskan-Eyak-Tlingit; Atlantic-Congo; Austronesian
+HARD,STRONG,hard,strong,35,41,187,0.187166,Abkhaz-Adyge; Angan; Arawan; Baining; Bunaban; Ongota
+ASH,DUST,ash,dust,34,110,206,0.165049,Afro-Asiatic; Araucanian; Arawakan; Atlantic-Congo; Austroasiatic; Austronesian
+BEFORE,IN FRONT OF,before,in front of,34,92,150,0.226667,Afro-Asiatic; Arawakan; Arawan; Austroasiatic; Austronesian; Basque
+AFTERWARDS,BEHIND,afterwards,behind,34,82,158,0.21519,Afro-Asiatic; Austroasiatic; Austronesian; Baining; Barbacoan; Cariban
+BREAST,NIPPLE,breast,nipple,34,55,126,0.269841,Afro-Asiatic; Anim; Araucanian; Arawakan; Atakapa; Atlantic-Congo
+FINGER,HAND,finger,hand,34,43,213,0.159624,Arawakan; Austroasiatic; Bosavi; Cahuapanan; Candoshi-Shapra; Ongota
+FEW,SMALL,few,small,33,114,187,0.176471,Afro-Asiatic; Araucanian; Arawakan; Atlantic-Congo; Austroasiatic; Austronesian
+BELLY,STOMACH,belly,stomach,33,106,58,0.568966,Afro-Asiatic; Araucanian; Arawakan; Atlantic-Congo; Austronesian; Barbacoan

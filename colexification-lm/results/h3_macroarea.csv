@@ -1,0 +1,7 @@
+macroarea,n_languages,n_families,median_auc_w2v_gnews
+Africa,255,34,0.828356
+Australia,83,17,0.832603
+Eurasia,431,29,0.770076
+North America,73,44,0.801963
+Papunesia,356,54,0.768381
+South America,211,62,0.836002

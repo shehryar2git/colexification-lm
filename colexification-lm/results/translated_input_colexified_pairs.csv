@@ -1,0 +1,64 @@
+concept_a,concept_b,input_isos,forms
+ABOVE,HIGH,swh,juu
+ANT,BITTER,swh,chungu
+ANT,POT,swh,chungu
+ANT,SOUR,swh,chungu
+ARM,HAND,swh,mkono
+BEAT,STRIKE,swh,piga
+BELLY,STOMACH,swh,tumbo
+BITTER,POT,swh,chungu
+BITTER,SOUR,swh,chungu
+BLOW (OF WIND),WALK,hin,चलना
+BOY,CHILD (YOUNG HUMAN),swh,mtoto
+BOY,GIRL,swh,mtoto
+BREAK (BREAKING),BREAK (CLEAVE),"hin,rus,swh,tur",kırmak | vunja | сломать | तोड़ना
+BREAST,LAKE,swh,ziwa
+BURN (SOMETHING),BURNING,ind,bakar
+BUY,TAKE,tur,almak
+CHILD (DESCENDANT),DAUGHTER,swh,mwana
+CHILD (DESCENDANT),SON,swh,mwana
+CHILD (YOUNG HUMAN),GIRL,swh,mtoto
+CHILD (YOUNG HUMAN),HAIR,hin,बाल
+CLAW,FINGERNAIL,swh,ukucha
+DANCE,PLAY,tur,oynamak
+DAUGHTER,GIRL,tur,kız
+DAUGHTER,SON,swh,mwana
+FACE,HUNDRED,tur,yüz
+FENCE,FLOWER,swh,ua
+FENCE,KILL,swh,ua
+FIND,SEE,swh,ona
+FINGER,TOE,"hin,rus,swh",kidole | палец | उँगली
+FLAT,SMOOTH,tur,düz
+FLESH,MEAT,swh,nyama
+FLOWER,KILL,swh,ua
+FOOT,LEG,swh,mguu
+GRASS,LEAF,swh,jani
+HE,IT,swh,yeye
+HE,SHE,swh,yeye
+HE,THAT,tur,o
+HE,THIS,hin,यह
+HEAR,UNDERSTAND,"hin,tur",duymak | सुनना
+HIDE (CONCEAL),HIDE (ONESELF),tur,saklamak
+HILL,MOUNTAIN,swh,mlima
+HOT,WARM,swh,joto
+IT,SHE,swh,yeye
+KNOW (SOMETHING),SUN,swh,jua
+LANGUAGE,TONGUE,"rus,tur",dil | язык
+LIE DOWN,SLEEP,swh,lala
+LIGHT (COLOR),LIGHT (RADIATION),swh,mwanga
+LOOK,SEE,hin,देखना
+NARROW,THIN (OF SHAPE OF OBJECT),swh,embamba
+NECK,THROAT,hin,गला
+OLD (AGED),OLD (USED),"hin,rus,swh,tur",eski | mzee | старый | पुराना
+OLD (AGED),OLD MAN,swh,mzee
+OLD (AGED),OLD WOMAN,swh,mzee
+OLD (USED),OLD MAN,swh,mzee
+OLD (USED),OLD WOMAN,swh,mzee
+OLD MAN,OLD WOMAN,swh,mzee
+PATH,ROAD,ind,jalanan
+POT,SOUR,swh,chungu
+ROOF,THATCH,ind,atap
+SALT,SALTY,swh,chumvi
+SAY,SPEAK,swh,sema
+TOMORROW,YESTERDAY,hin,कल
+TREE,WOOD,"swh,tur",ağaç | mti

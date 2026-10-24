@@ -1,0 +1,207 @@
+{
+  "primary": "separate_entries__segments",
+  "comparisons": [
+    {
+      "alternative": "all__segments",
+      "n_edges_primary": 2459,
+      "n_edges_alternative": 2984,
+      "n_edges_in_both": 2459,
+      "spearman_rate_all_pairs": 0.9185687436536881,
+      "spearman_family_count_colexified_pairs": 0.678480063057158,
+      "largest_family_count_drops": [
+        {
+          "concept_a": "IT",
+          "concept_b": "SHE",
+          "n_families_all__segments": 224,
+          "n_families_primary": 21
+        },
+        {
+          "concept_a": "BURN (SOMETHING)",
+          "concept_b": "BURNING",
+          "n_families_all__segments": 223,
+          "n_families_primary": 21
+        },
+        {
+          "concept_a": "HIDE (CONCEAL)",
+          "concept_b": "HIDE (ONESELF)",
+          "n_families_all__segments": 215,
+          "n_families_primary": 13
+        },
+        {
+          "concept_a": "HE",
+          "concept_b": "IT",
+          "n_families_all__segments": 224,
+          "n_families_primary": 22
+        },
+        {
+          "concept_a": "TURN (SOMETHING)",
+          "concept_b": "TURN AROUND",
+          "n_families_all__segments": 216,
+          "n_families_primary": 14
+        },
+        {
+          "concept_a": "THIN (OF SHAPE OF OBJECT)",
+          "concept_b": "THIN (SLIM)",
+          "n_families_all__segments": 206,
+          "n_families_primary": 5
+        },
+        {
+          "concept_a": "HE",
+          "concept_b": "SHE",
+          "n_families_all__segments": 225,
+          "n_families_primary": 27
+        },
+        {
+          "concept_a": "THINK (BELIEVE)",
+          "concept_b": "THINK (REFLECT)",
+          "n_families_all__segments": 215,
+          "n_families_primary": 23
+        },
+        {
+          "concept_a": "SMELL (PERCEIVE)",
+          "concept_b": "SMELL (STINK)",
+          "n_families_all__segments": 200,
+          "n_families_primary": 21
+        },
+        {
+          "concept_a": "BEAT",
+          "concept_b": "STRIKE",
+          "n_families_all__segments": 92,
+          "n_families_primary": 1
+        },
+        {
+          "concept_a": "BREAK (BREAKING)",
+          "concept_b": "BREAK (CLEAVE)",
+          "n_families_all__segments": 88,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "PATH",
+          "concept_b": "ROAD",
+          "n_families_all__segments": 121,
+          "n_families_primary": 46
+        },
+        {
+          "concept_a": "HILL",
+          "concept_b": "MOUNTAIN",
+          "n_families_all__segments": 83,
+          "n_families_primary": 19
+        },
+        {
+          "concept_a": "CHILD (DESCENDANT)",
+          "concept_b": "CHILD (YOUNG HUMAN)",
+          "n_families_all__segments": 88,
+          "n_families_primary": 26
+        },
+        {
+          "concept_a": "ROOF",
+          "concept_b": "THATCH",
+          "n_families_all__segments": 71,
+          "n_families_primary": 12
+        }
+      ],
+      "n_edges_lost": 525
+    },
+    {
+      "alternative": "separate_entries__form",
+      "n_edges_primary": 2459,
+      "n_edges_alternative": 2117,
+      "n_edges_in_both": 2111,
+      "spearman_rate_all_pairs": 0.9291857495262998,
+      "spearman_family_count_colexified_pairs": 0.7639582314806013,
+      "largest_family_count_drops": [
+        {
+          "concept_a": "HORN (ANATOMY)",
+          "concept_b": "SMELL (PERCEIVE)",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "RUB",
+          "concept_b": "STAND",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "BURN (SOMETHING)",
+          "concept_b": "STRIKE",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "HIDE (CONCEAL)",
+          "concept_b": "RUB",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "SLEEP",
+          "concept_b": "WIFE",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "EGG",
+          "concept_b": "TONGUE",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "BREAST",
+          "concept_b": "HEAD",
+          "n_families_separate_entries__form": 2,
+          "n_families_primary": 1
+        },
+        {
+          "concept_a": "ALL",
+          "concept_b": "TEN",
+          "n_families_separate_entries__form": 3,
+          "n_families_primary": 2
+        },
+        {
+          "concept_a": "BEE",
+          "concept_b": "HONEY",
+          "n_families_separate_entries__form": 18,
+          "n_families_primary": 17
+        },
+        {
+          "concept_a": "ANT",
+          "concept_b": "STAND",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "ASH",
+          "concept_b": "HEAD",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "FAR",
+          "concept_b": "THIS",
+          "n_families_separate_entries__form": 2,
+          "n_families_primary": 1
+        },
+        {
+          "concept_a": "BAD",
+          "concept_b": "DIRTY",
+          "n_families_separate_entries__form": 9,
+          "n_families_primary": 8
+        },
+        {
+          "concept_a": "HAIR",
+          "concept_b": "OPEN",
+          "n_families_separate_entries__form": 1,
+          "n_families_primary": 0
+        },
+        {
+          "concept_a": "BITTER",
+          "concept_b": "SOUR",
+          "n_families_separate_entries__form": 38,
+          "n_families_primary": 37
+        }
+      ],
+      "n_edges_lost": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+community,size,label,hubs,dominant_field,dominant_field_share,mean_coassignment
+0,104,eat / say / see,"eat, say, see, hear, kill, come, die, drink",The body,0.153846,0.975924
+1,41,small / what / short,"small, what, short, low, under, few, how, afterwards",Spatial relations,0.414634,0.721683
+2,37,skin / flesh / seed,"skin, flesh, seed, egg, meat, eye, fruit, bark",The body,0.297297,0.762072
+3,30,hand / forearm / upper arm,"hand, forearm, upper arm, feather, wing, arm, leaf, head",The body,0.666667,0.897034
+4,25,sun / cloud / day,"sun, cloud, day, sky, dust, soil, wind, smoke",The physical world,0.64,0.943333
+5,22,big / sharp / long,"big, sharp, long, thick, high, hard, hot, wide",Spatial relations,0.454545,0.780563
+6,22,green / black / dark,"green, black, dark, blue, bad, night, blood, dirty",Sense perception,0.409091,0.914026
+7,18,foot / shin / leg,"foot, shin, leg, thigh, bone, not, dry, root",The body,0.5,0.741307
+8,15,many / five / ten,"many, five, ten, seven, six, nine, twenty, eight",Quantity,1,0.890286
+9,14,water / river / rain,"water, river, rain, sour, bitter, salty, sea, lake",The physical world,0.357143,0.996374
+10,14,man / person / boy,"man, person, boy, child, son, wife, woman, husband",Kinship,0.785714,0.989451
+11,14,mouth / neck / tooth,"mouth, neck, tooth, word, language, name, throat, path",The body,0.5,0.957802
+12,13,tree / fire / wood,"tree, fire, wood, stick, firewood, bow, arrow, forest",The physical world,0.461538,0.992308
+13,13,breast / belly / milk,"breast, belly, milk, stomach, heart, liver, nipple, chest",The body,0.846154,0.929231
+14,13,that / this / he,"that, this, he, here, they, she, it, there",Kinship,0.384615,0.94359
+15,12,good / correct / straight,"good, correct, straight, soft, beautiful, smooth, flat, clean",Sense perception,0.333333,1
+16,8,old / worn / old man,"old, worn, old man, mother, old woman, father, grandmother, grandfather",Kinship,0.75,1
+17,1,break (isolated),break,Basic actions and technology,1,
+18,1,crush (isolated),crush,Food and drink,1,
+19,1,dove (isolated),dove,Animals,1,
+20,1,fart (isolated),fart,The body,1,
+21,1,hundred (isolated),hundred,Quantity,1,
+22,1,island (isolated),island,The physical world,1,
+23,1,maize (isolated),maize,Agriculture and vegetation,1,
+24,1,owl (isolated),owl,Animals,1,
+25,1,scared (isolated),scared,Emotions and values,1,
+26,1,spring (isolated),spring,The physical world,1,
+27,1,perspire (isolated),perspire,The body,1,
+28,1,sweat (isolated),sweat,The body,1,

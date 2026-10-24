@@ -1,0 +1,7 @@
+condition,pair,english,families,cosine,mutual_rank,input_colexified,neighbours_tomorrow,neighbours_yesterday,neighbours_arm,neighbours_hand,neighbours_tree,neighbours_wood,neighbours_finger,neighbours_toe,neighbours_see,neighbours_understand,neighbours_language,neighbours_tongue
+w2v_gnews,tomorrow ~ yesterday,absent,15,0.441202,0.00609756,True,"today, morning, yesterday, evening, night","today, morning, tomorrow, evening, day",,,,,,,,,,
+w2v_gnews,arm ~ hand,absent,47,0.345857,0.0121951,True,,,"leg, shoulder, elbow, neck, head","finger, arm, shoulder, ear, forehead",,,,,,,,
+w2v_gnews,tree ~ wood,absent,57,0.275562,0.0137195,True,,,,,"flower, leaf, forest, grass, bark","forest, stone, bark, tree, ash",,,,,,
+w2v_gnews,finger ~ toe,absent,39,0.335871,0.0304878,True,,,,,,,"fingernail, nose, forehead, hand, thigh","knee, heel, thigh, shoulder, elbow",,,,
+w2v_gnews,see ~ understand,present,3,0.39011,0.0137195,False,,,,,,,,,"look, know, think, find, hear","know, think, do, see, speak",,
+w2v_gnews,language ~ tongue,present,13,0.340355,0.00609756,True,,,,,,,,,,,"word, tongue, speak, understand, name","mouth, cheek, forehead, language, throat"

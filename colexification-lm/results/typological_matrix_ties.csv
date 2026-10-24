@@ -1,0 +1,11 @@
+matrix,share_pairs_at_max,n_unique_values
+shortest_path,0.0554804,38258
+profile_cosine,0.734538,23932
+rate,0.972963,746
+binary_profile,0.734538,1950
+language_profile,0.821783,20266
+minfam1,1.09949e-05,39151
+minfam3,0.1872,42015
+evidence_all,0.0371629,40810
+identity_form,0.0554804,35900
+no_johansson,0.07813,24392

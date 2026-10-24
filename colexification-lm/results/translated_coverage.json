@@ -1,0 +1,111 @@
+{
+  "forms_per_unit": {
+    "hindustani": 331,
+    "indonesian": 170,
+    "russian": 331,
+    "swahili": 403,
+    "turkish": 331
+  },
+  "concepts_by_n_units": {
+    "0": 9,
+    "1": 72,
+    "2": 15,
+    "3": 11,
+    "4": 169,
+    "5": 151
+  },
+  "n_concepts_meeting_min_units": 331,
+  "min_units": 3,
+  "n_forms_from_curated": 0,
+  "dataset_choice": [
+    {
+      "iso639_3": "hin",
+      "contribution_id": "northeuralex",
+      "variety_id": "273",
+      "n_total": 331,
+      "n_usable": 331,
+      "chosen": true
+    },
+    {
+      "iso639_3": "ind",
+      "contribution_id": "transnewguineaorg",
+      "variety_id": "2437",
+      "n_total": 170,
+      "n_usable": 170,
+      "chosen": true
+    },
+    {
+      "iso639_3": "rus",
+      "contribution_id": "northeuralex",
+      "variety_id": "283",
+      "n_total": 331,
+      "n_usable": 331,
+      "chosen": true
+    },
+    {
+      "iso639_3": "rus",
+      "contribution_id": "dunnielex",
+      "variety_id": "2505",
+      "n_total": 200,
+      "n_usable": 0,
+      "chosen": false
+    },
+    {
+      "iso639_3": "swh",
+      "contribution_id": "wold",
+      "variety_id": "47",
+      "n_total": 403,
+      "n_usable": 403,
+      "chosen": true
+    },
+    {
+      "iso639_3": "swh",
+      "contribution_id": "johanssonsoundsymbolic",
+      "variety_id": "1352",
+      "n_total": 275,
+      "n_usable": 96,
+      "chosen": false
+    },
+    {
+      "iso639_3": "tur",
+      "contribution_id": "northeuralex",
+      "variety_id": "300",
+      "n_total": 331,
+      "n_usable": 331,
+      "chosen": true
+    },
+    {
+      "iso639_3": "tur",
+      "contribution_id": "robbeetstriangulation",
+      "variety_id": "1722",
+      "n_total": 229,
+      "n_usable": 214,
+      "chosen": false
+    },
+    {
+      "iso639_3": "tur",
+      "contribution_id": "kesslersignificance",
+      "variety_id": "2764",
+      "n_total": 191,
+      "n_usable": 191,
+      "chosen": false
+    },
+    {
+      "iso639_3": "tur",
+      "contribution_id": "johanssonsoundsymbolic",
+      "variety_id": "1302",
+      "n_total": 278,
+      "n_usable": 12,
+      "chosen": false
+    },
+    {
+      "iso639_3": "urd",
+      "contribution_id": "dunnielex",
+      "variety_id": "2581",
+      "n_total": 199,
+      "n_usable": 0,
+      "chosen": false
+    }
+  ],
+  "n_input_colexified_pairs": 63
+}

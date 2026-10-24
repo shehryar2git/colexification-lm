@@ -1,0 +1,3 @@
+condition,population,n_runs,delta_median,delta_q025,delta_q975,share_p_below_05,p_median,share_balanced_log_families
+w2v_gnews,all_pairs,200,0.191459,0.164529,0.2289,0.675,0.0441003,1
+w2v_gnews,no_input_colexified,200,0.127019,0.0921164,0.160192,0,0.157233,0.505

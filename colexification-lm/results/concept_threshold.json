@@ -1,0 +1,91 @@
+{
+  "knee_threshold": 85,
+  "knee_n_concepts": 436,
+  "chosen_threshold": 85,
+  "constrained_to_target": false,
+  "threshold_used": 85,
+  "threshold_source": "kneedle",
+  "robustness_threshold": 100,
+  "n_concepts_total": 1730,
+  "n_passing_threshold": 436,
+  "anchors_added_below_threshold": [
+    {
+      "concept_id": "LANGUAGE",
+      "n_families": 76
+    },
+    {
+      "concept_id": "UNDERSTAND",
+      "n_families": 75
+    }
+  ],
+  "anchors_not_available": [],
+  "n_excluded_by_override": 11,
+  "n_gloss_overrides": 36,
+  "n_working": 427,
+  "n_robustness_set": 358,
+  "n_multiword_glosses": 8,
+  "semantic_fields": {
+    "The body": 86,
+    "Spatial relations": 38,
+    "Sense perception": 36,
+    "The physical world": 35,
+    "Animals": 26,
+    "Quantity": 23,
+    "Kinship": 23,
+    "Motion": 20,
+    "Time": 19,
+    "Food and drink": 18,
+    "Basic actions and technology": 17,
+    "Emotions and values": 16,
+    "Cognition": 14,
+    "Agriculture and vegetation": 13,
+    "Speech and language": 8,
+    "Miscellaneous function words": 8,
+    "Warfare and hunting": 7,
+    "Possession": 6,
+    "The house": 5,
+    "Clothing and grooming": 4,
+    "Social and political relations": 4,
+    "Law": 1
+  },
+  "ontological_categories": {
+    "Person/Thing": 195,
+    "Action/Process": 97,
+    "Property": 76,
+    "Other": 45,
+    "Number": 14
+  },
+  "knee_sensitivity_to_candidate_range": [
+    {
+      "range": "5-150",
+      "knee_threshold": 85,
+      "n_concepts": 436
+    },
+    {
+      "range": "10-150",
+      "knee_threshold": 85,
+      "n_concepts": 436
+    },
+    {
+      "range": "10-200",
+      "knee_threshold": 85,
+      "n_concepts": 436
+    },
+    {
+      "range": "10-250",
+      "knee_threshold": 85,
+      "n_concepts": 436
+    },
+    {
+      "range": "20-200",
+      "knee_threshold": 85,
+      "n_concepts": 436
+    },
+    {
+      "range": "30-200",
+      "knee_threshold": 85,
+      "n_concepts": 436
+    }
+  ],
+  "concept_order_sha256": "10cab02b133a8c6ca8662e80fc196f0e5849ef963a56c1dd893a47615e59ba27"
+}

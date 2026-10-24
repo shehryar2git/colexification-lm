@@ -1,0 +1,9 @@
+condition,label,status,design,population,primary,audit_status,n_present,n_absent,median_rank_present,median_rank_absent,mean_rank_gap,U,p_one_sided,p_two_sided,cliffs_delta,delta_ci_low,delta_ci_high,p_bh_primary
+w2v_gnews,"word2vec (EN, static)",done,matched,all_pairs,True,PROVISIONAL (Claude suggestions),35,103,0.0137195,0.027439,0.0844149,1492.5,0.064788,0.129576,0.171983,-0.0514274,0.372261,0.064788
+w2v_gnews,"word2vec (EN, static)",done,matched,no_input_colexified,False,PROVISIONAL (Claude suggestions),29,80,0.0152439,0.0327744,0.0773201,969,0.0955599,0.19112,0.164655,-0.0733302,0.389046,
+w2v_gnews,"word2vec (EN, static)",done,unmatched,all_pairs,False,PROVISIONAL (Claude suggestions),38,1736,0.0137195,0.189024,0.239072,13530,2.36562e-10,4.73123e-10,0.589801,0.45486,0.6993,
+bert_base,BERT-base (EN),PENDING USER RUN,,,,,,,,,,,,,,,,
+xlmr_base,XLM-R base (multi),PENDING USER RUN,,,,,,,,,,,,,,,,
+labse,LaBSE (multi),PENDING USER RUN,,,,,,,,,,,,,,,,
+xlmr_translated,XLM-R (multi input),PENDING USER RUN,,,,,,,,,,,,,,,,
+labse_translated,LaBSE (multi input),PENDING USER RUN,,,,,,,,,,,,,,,,

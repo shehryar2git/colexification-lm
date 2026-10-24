@@ -1,0 +1,111 @@
+{
+  "statistic": "pair-level AUC (D-09 amendment); Spearman with family_<slug>.npz alongside",
+  "n_concepts_analysis_set": 330,
+  "conditions": [
+    "w2v_gnews"
+  ],
+  "pending_conditions": [
+    "bert_base",
+    "xlmr_base",
+    "labse",
+    "xlmr_translated",
+    "labse_translated"
+  ],
+  "families": [
+    {
+      "family_gc": "aust1307",
+      "family_name": "Austronesian",
+      "n_languages": 401
+    },
+    {
+      "family_gc": "atla1278",
+      "family_name": "Atlantic-Congo",
+      "n_languages": 234
+    },
+    {
+      "family_gc": "sino1245",
+      "family_name": "Sino-Tibetan",
+      "n_languages": 180
+    },
+    {
+      "family_gc": "nucl1709",
+      "family_name": "Nuclear Trans New Guinea",
+      "n_languages": 133
+    },
+    {
+      "family_gc": "pama1250",
+      "family_name": "Pama-Nyungan",
+      "n_languages": 123
+    },
+    {
+      "family_gc": "afro1255",
+      "family_name": "Afro-Asiatic",
+      "n_languages": 89
+    },
+    {
+      "family_gc": "indo1319",
+      "family_name": "Indo-European",
+      "n_languages": 63
+    },
+    {
+      "family_gc": "tupi1275",
+      "family_name": "Tupian",
+      "n_languages": 53
+    },
+    {
+      "family_gc": "aust1305",
+      "family_name": "Austroasiatic",
+      "n_languages": 38
+    },
+    {
+      "family_gc": "nakh1245",
+      "family_name": "Nakh-Daghestanian",
+      "n_languages": 33
+    },
+    {
+      "family_gc": "turk1311",
+      "family_name": "Turkic",
+      "n_languages": 32
+    },
+    {
+      "family_gc": "ural1272",
+      "family_name": "Uralic",
+      "n_languages": 26
+    },
+    {
+      "family_gc": "taik1256",
+      "family_name": "Tai-Kadai",
+      "n_languages": 24
+    },
+    {
+      "family_gc": "hmon1336",
+      "family_name": "Hmong-Mien",
+      "n_languages": 23
+    },
+    {
+      "family_gc": "tuca1253",
+      "family_name": "Tucanoan",
+      "n_languages": 21
+    },
+    {
+      "family_gc": "araw1281",
+      "family_name": "Arawakan",
+      "n_languages": 20
+    }
+  ],
+  "n_permutations": 10000,
+  "n_bootstrap": 2000,
+  "rarefaction": {
+    "n_languages": 20,
+    "repeats": 200
+  },
+  "edge_rule_within_family": ">= 2 languages",
+  "language_map_rule": ">= 5 colexified analysis pairs",
+  "n_languages_total": 2002,
+  "n_languages_mapped": 1409,
+  "proxy_status": {
+    "joshi_class_status": "PROVISIONAL: 37 languages whose class the paper states (lower bounds per family); for the full taxonomy place lang2tax.txt at data/raw/joshi/lang2tax.txt",
+    "wikipedia_log10_articles_status": "PENDING USER RUN: `python run.py analyse` with internet access (query.wikidata.org, meta.wikimedia.org, *.wikipedia.org)"
+  },
+  "confirmatory": "rarefied AUC vs Wikipedia proxy, one-sided Spearman, BH across conditions (D-57)"
+}

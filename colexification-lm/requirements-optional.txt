@@ -1,0 +1,4 @@
+# Optional: the Streamlit dashboard (src/viz/dashboard.py) and PDF report build.
+streamlit==1.39.0
+# Report PDF: pandoc + a LaTeX engine are system tools, installed via conda
+# (environment.yml) or your OS package manager, not pip.

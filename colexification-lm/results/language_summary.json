@@ -1,0 +1,37 @@
+{
+  "n_varieties": 3447,
+  "n_varieties_included": 3438,
+  "excluded_by_reason": {
+    "pseudo-family: Bookkeeping": 9
+  },
+  "n_languages_included": 2002,
+  "n_families_included": 246,
+  "n_isolate_families": 71,
+  "glottolog_level_counts": {
+    "language": 3082,
+    "dialect": 324,
+    "family": 41
+  },
+  "n_family_disagreements_with_clics": 0,
+  "coord_source_counts": {
+    "glottolog_language": 3438
+  },
+  "n_multi_macroarea": 6,
+  "languages_per_family_top15": {
+    "Austronesian": 401,
+    "Atlantic-Congo": 234,
+    "Sino-Tibetan": 180,
+    "Nuclear Trans New Guinea": 133,
+    "Pama-Nyungan": 123,
+    "Afro-Asiatic": 89,
+    "Indo-European": 63,
+    "Tupian": 53,
+    "Austroasiatic": 38,
+    "Nakh-Daghestanian": 33,
+    "Turkic": 32,
+    "Uralic": 26,
+    "Tai-Kadai": 24,
+    "Hmong-Mien": 23,
+    "Tucanoan": 21
+  }
+}

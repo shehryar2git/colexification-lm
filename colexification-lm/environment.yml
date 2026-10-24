@@ -1,0 +1,12 @@
+name: colexification-lm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - git
+  - make
+  - pandoc=3.5        # report.md -> report.pdf
+  - tectonic          # self-contained LaTeX engine for pandoc
+  - pip:
+      - -r requirements.txt

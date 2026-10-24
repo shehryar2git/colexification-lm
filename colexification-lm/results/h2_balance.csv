@@ -1,0 +1,9 @@
+population,covariate,matched_on,mean_present_before,mean_absent_before,smd_before,mean_present_after,mean_absent_after,smd_after,balanced_after
+all_pairs,log_families,True,2.63124,1.10001,1.87434,2.59907,2.57004,0.0355421,True
+all_pairs,zipf_min,True,4.93868,4.68043,0.455666,4.916,4.88427,0.0559807,True
+all_pairs,same_field,True,0.526316,0.296083,0.477695,0.571429,0.563107,0.0172663,True
+all_pairs,zipf_max,False,5.43816,5.3499,0.153156,5.40514,5.43757,-0.0562743,True
+no_input_colexified,log_families,True,2.53674,1.07482,1.75379,2.49837,2.40635,0.110381,False
+no_input_colexified,zipf_min,True,4.97129,4.67911,0.528212,4.9531,4.94838,0.00854814,True
+no_input_colexified,same_field,True,0.451613,0.291132,0.333753,0.482759,0.4875,-0.00986068,True
+no_input_colexified,zipf_max,False,5.50742,5.35271,0.282406,5.50379,5.42475,0.144282,False

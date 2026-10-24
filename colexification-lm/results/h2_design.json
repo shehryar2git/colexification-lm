@@ -1,0 +1,30 @@
+{
+  "audit_status": "PROVISIONAL (Claude suggestions)",
+  "match_k": 3,
+  "caliper_sd": 0.2,
+  "caliper_logit": {
+    "all_pairs": 0.224244500735799,
+    "no_input_colexified": 0.21390297674009495
+  },
+  "populations": {
+    "all_pairs": {
+      "n_present": 38,
+      "n_absent": 1736,
+      "n_matched_present": 35,
+      "n_unmatched_present": 3,
+      "n_matched_absent": 103
+    },
+    "no_input_colexified": {
+      "n_present": 31,
+      "n_absent": 1714,
+      "n_matched_present": 29,
+      "n_unmatched_present": 2,
+      "n_matched_absent": 80
+    }
+  },
+  "balanced_after_matching": {
+    "all_pairs": true,
+    "no_input_colexified": false
+  },
+  "interaction": "PENDING USER RUN: needs at least two model conditions"
+}

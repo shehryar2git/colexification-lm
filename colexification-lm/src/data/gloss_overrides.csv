@@ -1,0 +1,48 @@
+concept_id,action,gloss,collision_group,reason
+BREAK (BREAKING),gloss,break,break,Collides with BREAK (CLEAVE) after removing the parenthesis; keep the default sense
+BREAK (CLEAVE),gloss,cleave,break,"Collides with BREAK (BREAKING); 'cleave' is the ordinary single word for splitting something apart (SPLIT is a separate working concept, so 'split' cannot be used)"
+CHILD (YOUNG HUMAN),gloss,child,child,Collides with CHILD (DESCENDANT); keep the default sense
+CHILD (DESCENDANT),gloss,offspring,child,Collides with CHILD (YOUNG HUMAN); 'offspring' names the kinship sense unambiguously
+FLY (MOVE THROUGH AIR),gloss,fly,fly,Collides with FLY (INSECT); verb sense keeps 'fly'
+FLY (INSECT),gloss,housefly,fly,Collides with FLY (MOVE THROUGH AIR); 'housefly' is the closest single-word noun
+HAIR,gloss,hair,hair,Generic concept keeps 'hair'
+HAIR (HEAD),gloss,head hair,hair,Collides with HAIR; head-hair sense made explicit
+HAIR (BODY),gloss,body hair,hair,Collides with HAIR; body-hair sense made explicit
+HIDE (ONESELF),gloss,hide,hide,Collides with HIDE (CONCEAL); intransitive sense keeps 'hide'
+HIDE (CONCEAL),gloss,conceal,hide,Collides with HIDE (ONESELF); 'conceal' is the transitive sense
+LIGHT (RADIATION),gloss,light,light,Collides with LIGHT (WEIGHT) and LIGHT (COLOR); noun sense keeps 'light'
+LIGHT (WEIGHT),gloss,lightweight,light,Collides with LIGHT (RADIATION); 'lightweight' names the weight sense
+LIGHT (COLOR),gloss,pale,light,Collides with LIGHT (RADIATION); 'pale' names the colour sense
+OLD (AGED),gloss,old,old,Collides with OLD (USED); age sense keeps 'old'
+OLD (USED),gloss,worn,old,Collides with OLD (AGED); 'worn' names the used/worn-out sense
+SMELL (PERCEIVE),gloss,smell,smell,Collides with SMELL (STINK); perception sense keeps 'smell'
+SMELL (STINK),gloss,stink,smell,Collides with SMELL (PERCEIVE); 'stink' names the emission sense
+SWEAT (SUBSTANCE),gloss,sweat,sweat,Collides with SWEAT (PERSPIRE); noun keeps 'sweat'
+SWEAT (PERSPIRE),gloss,perspire,sweat,Collides with SWEAT (SUBSTANCE); 'perspire' is the verb
+THIN (OF SHAPE OF OBJECT),gloss,thin,thin,Collides with THIN (SLIM); object sense keeps 'thin'
+THIN (SLIM),gloss,slim,thin,Collides with THIN (OF SHAPE OF OBJECT); 'slim' names the body sense
+THINK (REFLECT),gloss,think,think,Collides with THINK (BELIEVE); reflection sense keeps 'think'
+THINK (BELIEVE),gloss,believe,think,Collides with THINK (REFLECT); 'believe' names the opinion sense
+WE (EXCLUSIVE),exclude,,,English has no lexical clusivity distinction: the gloss would be identical to WE (INCLUSIVE)
+WE (INCLUSIVE),exclude,,,English has no lexical clusivity distinction: the gloss would be identical to WE (EXCLUSIVE)
+THOU,exclude,,,Only English gloss is archaic 'thou' or 'you'; 'you' is already the gloss of YOU (2pl)
+OLDER BROTHER (OF MAN),exclude,,,English does not distinguish siblings by the sex of ego
+OLDER BROTHER (OF WOMAN),exclude,,,English does not distinguish siblings by the sex of ego
+OLDER SISTER (OF MAN),exclude,,,English does not distinguish siblings by the sex of ego
+OLDER SISTER (OF WOMAN),exclude,,,English does not distinguish siblings by the sex of ego
+YOUNGER BROTHER (OF MAN),exclude,,,English does not distinguish siblings by the sex of ego
+YOUNGER BROTHER (OF WOMAN),exclude,,,English does not distinguish siblings by the sex of ego
+YOUNGER SISTER (OF MAN),exclude,,,English does not distinguish siblings by the sex of ego
+YOUNGER SISTER (OF WOMAN),exclude,,,English does not distinguish siblings by the sex of ego
+BE ALIVE,gloss,alive,,Copula removed: models embed the content word
+BELOW OR UNDER,gloss,under,,Disjunctive gloss reduced to the more frequent preposition
+LOOK FOR,gloss,search,,Single-word equivalent of the phrasal verb
+LOWER ARM,gloss,forearm,,Single-word anatomical term
+LOWER LEG,gloss,shin,,Single-word everyday term for the lower leg
+MALE PERSON,gloss,man,,Ordinary word for the concept
+UPPER LEG (THIGH),gloss,thigh,,Concepticon's own disambiguator is the ordinary word
+SUGAR CANE,gloss,sugarcane,,Standard single-word spelling
+EARTH (SOIL),gloss,soil,,'earth' is dominated by the planet sense in text
+SHIT (DEFECATE),gloss,defecate,,Verb concept; 'shit' is dominated by the noun and expletive uses
+CHIEFTAIN,gloss,chief,,More frequent everyday word for the concept
+I,gloss,I,,English first-person pronoun is capitalised; case matters for the case-sensitive word2vec vocabulary

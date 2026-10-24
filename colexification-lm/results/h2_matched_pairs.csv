@@ -1,0 +1,253 @@
+population,match_id,role,concept_a,concept_b,gloss_a,gloss_b,n_families,zipf_min,same_field,logit,final,final_source,input_colexified
+all_pairs,1260,present,HUNT,LOOK FOR,hunt,search,9,4.49,0,-3.2974,present,claude_suggestion,False
+all_pairs,1260,absent,FAT (ORGANIC SUBSTANCE),THICK,fat,thick,9,4.46,0,-3.31077,not_candidate,not_candidate,False
+all_pairs,1260,absent,BATHE,SWIM,bathe,swim,13,3.22,0,-3.32408,not_candidate,not_candidate,False
+all_pairs,1260,absent,FIND,LOOK,find,look,6,5.76,0,-3.32605,absent,claude_suggestion,False
+all_pairs,835,present,EVENING,NIGHT,evening,night,16,4.86,1,-2.28909,present,claude_suggestion,False
+all_pairs,835,absent,EARTH (SOIL),SAND,soil,sand,18,4.42,1,-2.31243,not_candidate,not_candidate,False
+all_pairs,835,absent,MOUNTAIN,STONE,mountain,stone,17,4.73,1,-2.25812,not_candidate,not_candidate,False
+all_pairs,835,absent,LEG,UPPER LEG (THIGH),leg,thigh,22,3.73,1,-2.32563,absent,claude_suggestion,False
+all_pairs,327,present,BOY,SON,boy,son,26,5.17,1,-1.43923,present,claude_suggestion,False
+all_pairs,327,absent,HUSBAND,WIFE,husband,wife,27,5,1,-1.45963,not_candidate,not_candidate,False
+all_pairs,327,absent,HOW,WHY,how,why,21,5.93,1,-1.41376,not_candidate,not_candidate,False
+all_pairs,327,absent,BELOW OR UNDER,LOW,under,low,24,5.33,1,-1.48529,not_candidate,not_candidate,False
+all_pairs,324,present,BOY,MALE PERSON,boy,man,8,5.17,1,-3.16714,present,claude_suggestion,False
+all_pairs,324,absent,LAKE,WATER,lake,water,9,4.83,1,-3.14594,absent,claude_suggestion,False
+all_pairs,324,absent,FLAT,WIDE,flat,wide,9,4.72,1,-3.19494,not_candidate,not_candidate,False
+all_pairs,324,absent,FOUR,THREE,four,three,7,5.53,1,-3.20252,absent,claude_suggestion,False
+all_pairs,532,present,CORRECT (RIGHT),GOOD,correct,good,44,4.79,1,-0.837261,present,claude_suggestion,False
+all_pairs,532,absent,FOOT,LEG,foot,leg,46,4.66,1,-0.830008,absent,claude_suggestion,True
+all_pairs,532,absent,PATH,ROAD,path,road,46,4.71,1,-0.807733,absent,claude_suggestion,True
+all_pairs,532,absent,NECK,THROAT,neck,throat,50,4.3,1,-0.868145,not_candidate,not_candidate,True
+all_pairs,1072,present,FOREST,WOOD,forest,wood,8,4.7,1,-3.37652,present,claude_suggestion,False
+all_pairs,1072,absent,AIR,SKY,air,sky,8,4.72,1,-3.36761,not_candidate,not_candidate,False
+all_pairs,1072,absent,TEN,TWENTY,ten,twenty,8,4.65,1,-3.39879,not_candidate,not_candidate,False
+all_pairs,1072,absent,AGAIN,NEW,again,new,6,5.7,1,-3.35278,not_candidate,not_candidate,False
+all_pairs,1644,present,SHOOT,THROW,shoot,throw,23,4.73,0,-1.81498,present,claude_suggestion,False
+all_pairs,1644,absent,THAT,THEY,that,they,13,6.5,0,-1.86289,not_candidate,not_candidate,False
+all_pairs,1644,absent,HE,THAT,he,that,14,6.69,0,-1.6696,not_candidate,not_candidate,True
+all_pairs,1644,absent,BITE,EAT,bite,eat,23,4.31,0,-2.00208,not_candidate,not_candidate,False
+all_pairs,362,present,BRING,TAKE,bring,take,9,5.27,0,-2.94992,present,claude_suggestion,False
+all_pairs,362,absent,BEAUTIFUL,CLEAN,beautiful,clean,10,4.97,0,-2.92911,not_candidate,not_candidate,False
+all_pairs,362,absent,BE ALIVE,RAW,alive,raw,11,4.53,0,-2.9854,not_candidate,not_candidate,False
+all_pairs,362,absent,RED,RIPE,red,ripe,15,3.67,0,-2.91383,not_candidate,not_candidate,False
+all_pairs,1116,present,GOOD,RIGHT,good,right,13,5.96,0,-2.10345,present,claude_suggestion,False
+all_pairs,1116,absent,HEAR,KNOW (SOMETHING),hear,know,16,5.23,0,-2.12426,absent,claude_suggestion,False
+all_pairs,1116,absent,GREEN,RAW,green,raw,19,4.53,0,-2.18416,not_candidate,not_candidate,False
+all_pairs,1116,absent,SOFT,WEAK,soft,weak,18,4.66,0,-2.20551,not_candidate,not_candidate,False
+all_pairs,1362,present,LOOK,SEE,look,see,36,5.81,1,-0.677049,present,claude_suggestion,True
+all_pairs,1362,absent,HERE,THIS,here,this,33,5.97,1,-0.73333,absent,claude_suggestion,False
+all_pairs,1362,absent,LANGUAGE,WORD,language,word,47,5.1,1,-0.602465,absent,claude_suggestion,False
+all_pairs,1362,absent,WHAT,WHO,what,who,29,6.34,1,-0.757924,not_candidate,not_candidate,False
+all_pairs,587,present,DARK,NIGHT,dark,night,27,5.04,0,-1.44182,present,claude_suggestion,False
+all_pairs,587,absent,CLAW,FINGERNAIL,claw,fingernail,53,2.73,0,-1.48214,not_candidate,not_candidate,True
+all_pairs,587,absent,AFTERWARDS,BEHIND,afterwards,behind,34,4.42,0,-1.38007,not_candidate,not_candidate,False
+all_pairs,587,absent,BE ALIVE,SIT,alive,sit,27,4.76,0,-1.56655,not_candidate,not_candidate,False
+all_pairs,388,present,BUY,TAKE,buy,take,10,5.32,1,-2.77319,present,claude_suggestion,True
+all_pairs,388,absent,BIG,HIGH,big,high,9,5.67,1,-2.77173,not_candidate,not_candidate,False
+all_pairs,388,absent,LANGUAGE,SPEAK,language,speak,11,5.03,1,-2.76265,absent,claude_suggestion,False
+all_pairs,388,absent,RIVER,SEA,river,sea,11,5.03,1,-2.76265,not_candidate,not_candidate,False
+all_pairs,401,unmatched_present,CARRY,TAKE,carry,take,27,4.89,0,-1.50864,present,claude_suggestion,False
+all_pairs,215,present,BLACK,DARK,black,dark,58,5.04,1,-0.320901,present,claude_suggestion,False
+all_pairs,215,absent,RIVER,WATER,river,water,58,5.03,1,-0.325356,absent,claude_suggestion,False
+all_pairs,215,absent,HOW,WHAT,how,what,36,6.24,1,-0.485489,not_candidate,not_candidate,False
+all_pairs,215,absent,THAT,THIS,that,this,38,6.82,1,-0.147845,not_candidate,not_candidate,False
+all_pairs,61,unmatched_present,BACK,BEHIND,back,behind,17,5.29,0,-2.00865,present,claude_suggestion,False
+all_pairs,1360,present,LOOK,LOOK FOR,look,search,7,4.96,0,-3.45645,present,claude_suggestion,False
+all_pairs,1360,absent,LOOK FOR,WANT,search,want,7,4.96,0,-3.45645,not_candidate,not_candidate,False
+all_pairs,1360,absent,BLACK,NIGHT,black,night,6,5.46,0,-3.45969,absent,claude_suggestion,False
+all_pairs,1360,absent,RAW,WET,raw,wet,8,4.53,0,-3.45225,not_candidate,not_candidate,False
+all_pairs,1269,present,HUSBAND,MALE PERSON,husband,man,35,5,1,-1.07919,present,claude_suggestion,False
+all_pairs,1269,absent,FAR,LONG,far,long,30,5.5,1,-1.08243,not_candidate,not_candidate,False
+all_pairs,1269,absent,GO,WALK,go,walk,35,5.08,1,-1.04355,absent,claude_suggestion,False
+all_pairs,1269,absent,BOY,CHILD (YOUNG HUMAN),boy,child,32,5.17,1,-1.13483,not_candidate,not_candidate,True
+all_pairs,590,present,DAUGHTER,GIRL,daughter,girl,24,5.07,1,-1.60112,present,claude_suggestion,True
+all_pairs,590,absent,CLOUD,SKY,cloud,sky,29,4.46,1,-1.59544,not_candidate,not_candidate,False
+all_pairs,590,absent,FEATHER,HAIR,feather,hair,36,3.69,1,-1.62148,not_candidate,not_candidate,False
+all_pairs,590,absent,COME,GO,come,go,19,5.78,1,-1.62731,absent,claude_suggestion,False
+all_pairs,1312,present,LANGUAGE,TONGUE,language,tongue,13,4.37,0,-2.81177,present,claude_suggestion,True
+all_pairs,1312,absent,NEW,RAW,new,raw,12,4.53,0,-2.85784,absent,claude_suggestion,False
+all_pairs,1312,absent,MALE PERSON,PEOPLE,man,people,8,5.82,0,-2.87757,not_candidate,not_candidate,False
+all_pairs,1312,absent,HOUSE,VILLAGE,house,village,12,4.82,0,-2.72865,not_candidate,not_candidate,False
+all_pairs,363,present,BURN (SOMETHING),BURNING,burn,burning,21,4.5,1,-2.05081,present,claude_suggestion,True
+all_pairs,363,absent,BIG,THICK,big,thick,21,4.46,1,-2.06863,not_candidate,not_candidate,False
+all_pairs,363,absent,BLACK,DIRTY,black,dirty,21,4.55,1,-2.02853,not_candidate,not_candidate,False
+all_pairs,363,absent,NAPE (OF NECK),NECK,nape,neck,38,2.64,1,-2.00998,absent,claude_suggestion,False
+all_pairs,1003,present,FLOW,RUN,flow,run,13,4.68,1,-2.67367,present,claude_suggestion,False
+all_pairs,1003,absent,CLEAN,WHITE,clean,white,12,4.97,1,-2.66183,absent,claude_suggestion,False
+all_pairs,1003,absent,SPEAK,WORD,speak,word,12,5.03,1,-2.6351,not_candidate,not_candidate,False
+all_pairs,1003,absent,FOG,SMOKE (EXHAUST),fog,smoke,16,3.9,1,-2.71675,not_candidate,not_candidate,False
+all_pairs,1213,present,HIDE (CONCEAL),SKIN,conceal,skin,2,3.52,0,-5.9345,present,claude_suggestion,False
+all_pairs,1213,absent,HIDE (CONCEAL),KILL,conceal,kill,2,3.52,0,-5.9345,not_candidate,not_candidate,False
+all_pairs,1213,absent,CLAW,NEEDLE (FOR SEWING),claw,needle,2,3.59,0,-5.90332,not_candidate,not_candidate,False
+all_pairs,1213,absent,FALL,SEW,fall,sew,2,3.45,0,-5.96569,not_candidate,not_candidate,False
+all_pairs,136,present,BELLY,STOMACH,belly,stomach,33,4.1,1,-1.56639,present,claude_suggestion,True
+all_pairs,136,absent,WHAT,WHY,what,why,19,5.93,1,-1.56048,not_candidate,not_candidate,False
+all_pairs,136,absent,RAIN (PRECIPITATION),WATER,rain,water,28,4.71,1,-1.53551,absent,claude_suggestion,False
+all_pairs,136,absent,BITTER,SOUR,bitter,sour,37,3.88,1,-1.49667,not_candidate,not_candidate,True
+all_pairs,331,present,BRAIN,HEAD,brain,head,6,4.94,1,-3.69135,present,claude_suggestion,False
+all_pairs,331,absent,HOW,WHO,how,who,4,6.24,1,-3.70663,not_candidate,not_candidate,False
+all_pairs,331,absent,FAR,HIGH,far,high,5,5.5,1,-3.70916,absent,claude_suggestion,False
+all_pairs,331,absent,BLUE,GREY,blue,grey,7,4.48,1,-3.67028,not_candidate,not_candidate,False
+all_pairs,1391,present,MALE PERSON,PERSON,man,person,55,5.55,1,-0.171562,present,claude_suggestion,False
+all_pairs,1391,absent,BLUE,GREEN,blue,green,70,5.13,1,-0.00512229,absent,claude_suggestion,False
+all_pairs,1163,present,HARD,STRONG,hard,strong,35,5.22,0,-0.981184,present,claude_suggestion,False
+all_pairs,1163,absent,BEFORE,IN FRONT OF,before,in front of,34,5.27,0,-1.00141,not_candidate,not_candidate,False
+all_pairs,1163,absent,FEW,SMALL,few,small,33,5.51,0,-0.938253,absent,claude_suggestion,False
+all_pairs,1163,absent,POINTED,SHARP,pointed,sharp,42,4.46,0,-1.05247,not_candidate,not_candidate,False
+all_pairs,1086,present,GIRL,WOMAN,girl,woman,10,5.35,1,-2.75982,present,claude_suggestion,False
+all_pairs,1086,absent,HEAR,SMELL (PERCEIVE),hear,smell,13,4.49,1,-2.75832,not_candidate,not_candidate,False
+all_pairs,1086,absent,HALF,PART,half,part,10,5.41,1,-2.7331,absent,claude_suggestion,False
+all_pairs,1086,absent,FACE,FOREHEAD,face,forehead,16,3.87,1,-2.73012,absent,claude_suggestion,False
+all_pairs,535,present,CORRECT (RIGHT),RIGHT,correct,right,13,4.79,0,-2.62467,present,claude_suggestion,False
+all_pairs,535,absent,CLEAN,GOOD,clean,good,12,4.97,0,-2.66183,not_candidate,not_candidate,False
+all_pairs,535,absent,HE,THIS,he,this,7,6.69,0,-2.68576,not_candidate,not_candidate,True
+all_pairs,535,absent,EYE,SEED,eye,seed,14,4.37,0,-2.70313,not_candidate,not_candidate,False
+all_pairs,616,present,DIE,FALL,die,fall,3,5.07,0,-4.64959,present,claude_suggestion,False
+all_pairs,616,absent,DIE,EAT,die,eat,3,5.07,0,-4.64959,not_candidate,not_candidate,False
+all_pairs,616,absent,DIE,HEAR,die,hear,3,5.07,0,-4.64959,not_candidate,not_candidate,False
+all_pairs,616,absent,DIE,NOT,die,not,3,5.07,0,-4.64959,not_candidate,not_candidate,False
+all_pairs,1623,present,SEED,STONE,seed,stone,2,4.37,0,-5.55584,present,claude_suggestion,False
+all_pairs,1623,absent,BIRD,TONGUE,bird,tongue,2,4.37,0,-5.55584,not_candidate,not_candidate,False
+all_pairs,1623,absent,COUNT,TONGUE,count,tongue,2,4.37,0,-5.55584,not_candidate,not_candidate,False
+all_pairs,1623,absent,DOG,SEED,dog,seed,2,4.37,0,-5.55584,not_candidate,not_candidate,False
+all_pairs,343,present,BREAST,CHEST,breast,chest,25,4.35,1,-1.86203,present,claude_suggestion,False
+all_pairs,343,absent,CHILD (YOUNG HUMAN),SON,child,son,19,5.28,1,-1.85005,absent,claude_suggestion,False
+all_pairs,343,absent,GREEN,YELLOW,green,yellow,23,4.69,1,-1.8328,absent,claude_suggestion,False
+all_pairs,343,absent,SMOOTH,SOFT,smooth,soft,24,4.4,1,-1.8996,not_candidate,not_candidate,False
+all_pairs,1460,present,NARROW,THIN (OF SHAPE OF OBJECT),narrow,thin,24,4.39,1,-1.90405,present,claude_suggestion,True
+all_pairs,1460,absent,BODY,SKIN,body,skin,20,4.91,1,-1.93968,absent,claude_suggestion,False
+all_pairs,1460,absent,NARROW,SMALL,narrow,small,23,4.39,1,-1.96644,not_candidate,not_candidate,False
+all_pairs,1460,absent,CHILD (YOUNG HUMAN),GIRL,child,girl,17,5.3,1,-2.0042,not_candidate,not_candidate,True
+all_pairs,375,present,BURNING,HOT,burning,hot,5,4.5,0,-4.15464,present,claude_suggestion,False
+all_pairs,375,absent,ASK (INQUIRE),HEAR,ask,hear,4,5.23,0,-4.15657,not_candidate,not_candidate,False
+all_pairs,375,absent,BIG,MOTHER,big,mother,4,5.24,0,-4.15211,not_candidate,not_candidate,False
+all_pairs,375,absent,HUNT,TAKE,hunt,take,5,4.49,0,-4.1591,not_candidate,not_candidate,False
+all_pairs,1677,unmatched_present,SMALL,YOUNG,small,young,18,5.43,0,-1.86249,present,claude_suggestion,False
+all_pairs,960,present,FIRE,SHOOT,fire,shoot,2,4.73,0,-5.39547,present,claude_suggestion,False
+all_pairs,960,absent,ARM,FIVE,arm,five,2,4.73,0,-5.39547,not_candidate,not_candidate,False
+all_pairs,960,absent,ARM,HOUSE,arm,house,2,4.73,0,-5.39547,not_candidate,not_candidate,False
+all_pairs,960,absent,ARM,LAKE,arm,lake,2,4.73,0,-5.39547,not_candidate,not_candidate,False
+all_pairs,1384,present,LOW,SHORT,low,short,31,5.33,1,-1.1101,present,claude_suggestion,False
+all_pairs,1384,absent,HIGH,LONG,high,long,29,5.75,1,-1.02076,not_candidate,not_candidate,False
+all_pairs,1384,absent,DRINK,EAT,drink,eat,33,4.9,1,-1.21,not_candidate,not_candidate,False
+all_pairs,1384,absent,THAT,THERE,that,there,25,6.31,1,-0.988873,absent,claude_suggestion,False
+all_pairs,1502,present,NOW,TODAY,now,today,29,5.55,1,-1.10986,present,claude_suggestion,False
+all_pairs,1502,absent,BIG,WIDE,big,wide,31,4.96,1,-1.27493,not_candidate,not_candidate,False
+all_pairs,1502,absent,FEATHER,WING,feather,wing,45,3.69,1,-1.29435,not_candidate,not_candidate,False
+all_pairs,1502,absent,KNOW (SOMETHING),UNDERSTAND,know,understand,27,5.37,1,-1.29481,absent,claude_suggestion,False
+all_pairs,1618,present,SEE,UNDERSTAND,see,understand,3,5.37,0,-4.51594,present,claude_suggestion,False
+all_pairs,1618,absent,FIND,UNDERSTAND,find,understand,3,5.37,0,-4.51594,absent,claude_suggestion,False
+all_pairs,1618,absent,AFTERWARDS,BACK,afterwards,back,4,4.42,0,-4.51741,not_candidate,not_candidate,False
+all_pairs,1618,absent,EARTH (SOIL),NEAR,soil,near,4,4.42,0,-4.51741,not_candidate,not_candidate,False
+no_input_colexified,393,present,CARRY,TAKE,carry,take,27,4.89,0,-1.57738,present,claude_suggestion,False
+no_input_colexified,393,absent,BE ALIVE,SIT,alive,sit,27,4.76,0,-1.6374,not_candidate,not_candidate,False
+no_input_colexified,393,absent,AFTERWARDS,BEHIND,afterwards,behind,34,4.42,0,-1.45374,not_candidate,not_candidate,False
+no_input_colexified,1194,present,HIDE (CONCEAL),SKIN,conceal,skin,2,3.52,0,-6.05612,present,claude_suggestion,False
+no_input_colexified,1194,absent,HIDE (CONCEAL),KILL,conceal,kill,2,3.52,0,-6.05612,not_candidate,not_candidate,False
+no_input_colexified,1194,absent,CLAW,NEEDLE (FOR SEWING),claw,needle,2,3.59,0,-6.02379,not_candidate,not_candidate,False
+no_input_colexified,1194,absent,FALL,SEW,fall,sew,2,3.45,0,-6.08844,not_candidate,not_candidate,False
+no_input_colexified,988,present,FLOW,RUN,flow,run,13,4.68,1,-2.75442,present,claude_suggestion,False
+no_input_colexified,988,absent,CLEAN,WHITE,clean,white,12,4.97,1,-2.7388,absent,claude_suggestion,False
+no_input_colexified,988,absent,BLACK,BLUE,black,blue,11,5.13,1,-2.7935,absent,claude_suggestion,False
+no_input_colexified,988,absent,SPEAK,WORD,speak,word,12,5.03,1,-2.71109,not_candidate,not_candidate,False
+no_input_colexified,1070,present,GIRL,WOMAN,girl,woman,10,5.35,1,-2.83276,present,claude_suggestion,False
+no_input_colexified,1070,absent,LANGUAGE,SPEAK,language,speak,11,5.03,1,-2.83967,absent,claude_suggestion,False
+no_input_colexified,1070,absent,RIVER,SEA,river,sea,11,5.03,1,-2.83967,not_candidate,not_candidate,False
+no_input_colexified,1070,absent,BIG,HIGH,big,high,9,5.67,1,-2.8407,not_candidate,not_candidate,False
+no_input_colexified,1248,present,HUSBAND,MALE PERSON,husband,man,35,5,1,-1.14309,present,claude_suggestion,False
+no_input_colexified,1248,absent,FAR,LONG,far,long,30,5.5,1,-1.14002,not_candidate,not_candidate,False
+no_input_colexified,1248,absent,GO,WALK,go,walk,35,5.08,1,-1.10615,absent,claude_suggestion,False
+no_input_colexified,1248,absent,HIGH,LONG,high,long,29,5.75,1,-1.07468,not_candidate,not_candidate,False
+no_input_colexified,1338,present,LOOK,LOOK FOR,look,search,7,4.96,0,-3.53992,present,claude_suggestion,False
+no_input_colexified,1338,absent,LOOK FOR,WANT,search,want,7,4.96,0,-3.53992,not_candidate,not_candidate,False
+no_input_colexified,1338,absent,RAW,WET,raw,wet,8,4.53,0,-3.54114,not_candidate,not_candidate,False
+no_input_colexified,1338,absent,BLACK,NIGHT,black,night,6,5.46,0,-3.53685,absent,claude_suggestion,False
+no_input_colexified,1617,present,SHOOT,THROW,shoot,throw,23,4.73,0,-1.8882,present,claude_suggestion,False
+no_input_colexified,1617,absent,THAT,THEY,that,they,13,6.5,0,-1.91404,not_candidate,not_candidate,False
+no_input_colexified,1617,absent,BITE,EAT,bite,eat,23,4.31,0,-2.08214,not_candidate,not_candidate,False
+no_input_colexified,1477,present,NOW,TODAY,now,today,29,5.55,1,-1.16703,present,claude_suggestion,False
+no_input_colexified,1477,absent,DRINK,EAT,drink,eat,33,4.9,1,-1.27622,not_candidate,not_candidate,False
+no_input_colexified,1477,absent,THAT,THERE,that,there,25,6.31,1,-1.03543,absent,claude_suggestion,False
+no_input_colexified,1477,absent,BIG,WIDE,big,wide,31,4.96,1,-1.3409,not_candidate,not_candidate,False
+no_input_colexified,1239,present,HUNT,LOOK FOR,hunt,search,9,4.49,0,-3.38556,present,claude_suggestion,False
+no_input_colexified,1239,absent,FIND,LOOK,find,look,6,5.76,0,-3.39832,absent,claude_suggestion,False
+no_input_colexified,1239,absent,FAT (ORGANIC SUBSTANCE),THICK,fat,thick,9,4.46,0,-3.39941,not_candidate,not_candidate,False
+no_input_colexified,1239,absent,BATHE,SWIM,bathe,swim,13,3.22,0,-3.42857,not_candidate,not_candidate,False
+no_input_colexified,946,present,FIRE,SHOOT,fire,shoot,2,4.73,0,-5.4974,present,claude_suggestion,False
+no_input_colexified,946,absent,ARM,FIVE,arm,five,2,4.73,0,-5.4974,not_candidate,not_candidate,False
+no_input_colexified,946,absent,ARM,HOUSE,arm,house,2,4.73,0,-5.4974,not_candidate,not_candidate,False
+no_input_colexified,946,absent,ARM,LAKE,arm,lake,2,4.73,0,-5.4974,not_candidate,not_candidate,False
+no_input_colexified,60,present,BACK,BEHIND,back,behind,17,5.29,0,-2.07632,present,claude_suggestion,False
+no_input_colexified,60,absent,HEAR,KNOW (SOMETHING),hear,know,16,5.23,0,-2.19362,absent,claude_suggestion,False
+no_input_colexified,60,absent,GREEN,RAW,green,raw,19,4.53,0,-2.26289,not_candidate,not_candidate,False
+no_input_colexified,60,absent,SOFT,WEAK,soft,weak,18,4.66,0,-2.28276,not_candidate,not_candidate,False
+no_input_colexified,319,present,BOY,MALE PERSON,boy,man,8,5.17,1,-3.24563,present,claude_suggestion,False
+no_input_colexified,319,absent,LAKE,WATER,lake,water,9,4.83,1,-3.22857,absent,claude_suggestion,False
+no_input_colexified,319,absent,FOUR,THREE,four,three,7,5.53,1,-3.27673,absent,claude_suggestion,False
+no_input_colexified,319,absent,FLAT,WIDE,flat,wide,9,4.72,1,-3.27936,not_candidate,not_candidate,False
+no_input_colexified,1650,unmatched_present,SMALL,YOUNG,small,young,18,5.43,0,-1.92721,present,claude_suggestion,False
+no_input_colexified,1056,present,FOREST,WOOD,forest,wood,8,4.7,1,-3.46265,present,claude_suggestion,False
+no_input_colexified,1056,absent,AIR,SKY,air,sky,8,4.72,1,-3.45341,not_candidate,not_candidate,False
+no_input_colexified,1056,absent,SEVEN,SIX,seven,six,7,5.08,1,-3.48451,absent,claude_suggestion,False
+no_input_colexified,1056,absent,TEN,TWENTY,ten,twenty,8,4.65,1,-3.48573,not_candidate,not_candidate,False
+no_input_colexified,522,present,CORRECT (RIGHT),GOOD,correct,good,44,4.79,1,-0.901885,present,claude_suggestion,False
+no_input_colexified,522,absent,AIR,WIND,air,wind,45,4.84,1,-0.845588,absent,claude_suggestion,False
+no_input_colexified,522,absent,BEAUTIFUL,GOOD,beautiful,good,37,5.22,1,-0.959388,not_candidate,not_candidate,False
+no_input_colexified,522,absent,WHAT,WHO,what,who,29,6.34,1,-0.802247,not_candidate,not_candidate,False
+no_input_colexified,603,present,DIE,FALL,die,fall,3,5.07,0,-4.74123,present,claude_suggestion,False
+no_input_colexified,603,absent,DIE,EAT,die,eat,3,5.07,0,-4.74123,not_candidate,not_candidate,False
+no_input_colexified,603,absent,DIE,HEAR,die,hear,3,5.07,0,-4.74123,not_candidate,not_candidate,False
+no_input_colexified,603,absent,DIE,NOT,die,not,3,5.07,0,-4.74123,not_candidate,not_candidate,False
+no_input_colexified,368,present,BURNING,HOT,burning,hot,5,4.5,0,-4.24955,present,claude_suggestion,False
+no_input_colexified,368,absent,HUNT,TAKE,hunt,take,5,4.49,0,-4.25417,not_candidate,not_candidate,False
+no_input_colexified,368,absent,ASK (INQUIRE),HEAR,ask,hear,4,5.23,0,-4.24223,not_candidate,not_candidate,False
+no_input_colexified,368,absent,OTHER,THEY,other,they,3,6.16,0,-4.23793,not_candidate,not_candidate,False
+no_input_colexified,326,present,BRAIN,HEAD,brain,head,6,4.94,1,-3.77695,present,claude_suggestion,False
+no_input_colexified,326,absent,HOW,WHO,how,who,4,6.24,1,-3.77586,not_candidate,not_candidate,False
+no_input_colexified,326,absent,FAR,HIGH,far,high,5,5.5,1,-3.7878,absent,claude_suggestion,False
+no_input_colexified,326,absent,BLUE,GREY,blue,grey,7,4.48,1,-3.76156,not_candidate,not_candidate,False
+no_input_colexified,1146,present,HARD,STRONG,hard,strong,35,5.22,0,-1.04151,present,claude_suggestion,False
+no_input_colexified,1146,absent,BEFORE,IN FRONT OF,before,in front of,34,5.27,0,-1.06126,not_candidate,not_candidate,False
+no_input_colexified,1146,absent,FEW,SMALL,few,small,33,5.51,0,-0.994552,absent,claude_suggestion,False
+no_input_colexified,1146,absent,POINTED,SHARP,pointed,sharp,42,4.46,0,-1.12301,not_candidate,not_candidate,False
+no_input_colexified,1100,present,GOOD,RIGHT,good,right,13,5.96,0,-2.16338,present,claude_suggestion,False
+no_input_colexified,1100,absent,BLOOD,RED,blood,red,15,5.1,0,-2.34902,absent,claude_suggestion,False
+no_input_colexified,525,present,CORRECT (RIGHT),RIGHT,correct,right,13,4.79,0,-2.70363,present,claude_suggestion,False
+no_input_colexified,525,absent,CLEAN,GOOD,clean,good,12,4.97,0,-2.7388,not_candidate,not_candidate,False
+no_input_colexified,525,absent,EYE,SEED,eye,seed,14,4.37,0,-2.78805,not_candidate,not_candidate,False
+no_input_colexified,525,absent,BLOW (OF WIND),WIND,blow,wind,13,4.59,0,-2.79598,absent,claude_suggestion,False
+no_input_colexified,338,present,BREAST,CHEST,breast,chest,25,4.35,1,-1.94045,present,claude_suggestion,False
+no_input_colexified,338,absent,CHILD (YOUNG HUMAN),SON,child,son,19,5.28,1,-1.91658,absent,claude_suggestion,False
+no_input_colexified,338,absent,GREEN,YELLOW,green,yellow,23,4.69,1,-1.90667,absent,claude_suggestion,False
+no_input_colexified,338,absent,SMOOTH,SOFT,smooth,soft,24,4.4,1,-1.97769,not_candidate,not_candidate,False
+no_input_colexified,1361,present,LOW,SHORT,low,short,31,5.33,1,-1.17006,present,claude_suggestion,False
+no_input_colexified,1361,absent,KNOW (SOMETHING),UNDERSTAND,know,understand,27,5.37,1,-1.35574,absent,claude_suggestion,False
+no_input_colexified,1361,absent,FEATHER,WING,feather,wing,45,3.69,1,-1.3766,not_candidate,not_candidate,False
+no_input_colexified,822,present,EVENING,NIGHT,evening,night,16,4.86,1,-2.36446,present,claude_suggestion,False
+no_input_colexified,822,absent,EARTH (SOIL),SAND,soil,sand,18,4.42,1,-2.39358,not_candidate,not_candidate,False
+no_input_colexified,822,absent,MOUNTAIN,STONE,mountain,stone,17,4.73,1,-2.3349,not_candidate,not_candidate,False
+no_input_colexified,822,absent,LEG,UPPER LEG (THIGH),leg,thigh,22,3.73,1,-2.41564,absent,claude_suggestion,False
+no_input_colexified,1596,present,SEED,STONE,seed,stone,2,4.37,0,-5.66363,present,claude_suggestion,False
+no_input_colexified,1596,absent,BIRD,TONGUE,bird,tongue,2,4.37,0,-5.66363,not_candidate,not_candidate,False
+no_input_colexified,1596,absent,COUNT,TONGUE,count,tongue,2,4.37,0,-5.66363,not_candidate,not_candidate,False
+no_input_colexified,1596,absent,DOG,SEED,dog,seed,2,4.37,0,-5.66363,not_candidate,not_candidate,False
+no_input_colexified,1368,present,MALE PERSON,PERSON,man,person,55,5.55,1,-0.221206,present,claude_suggestion,False
+no_input_colexified,1368,absent,THAT,THIS,that,this,38,6.82,1,-0.181185,not_candidate,not_candidate,False
+no_input_colexified,1368,absent,RIVER,WATER,river,water,58,5.03,1,-0.38283,absent,claude_suggestion,False
+no_input_colexified,1368,absent,BLUE,GREEN,blue,green,70,5.13,1,-0.0587598,absent,claude_suggestion,False
+no_input_colexified,356,present,BRING,TAKE,bring,take,9,5.27,0,-3.0254,present,claude_suggestion,False
+no_input_colexified,356,absent,RED,RIPE,red,ripe,15,3.67,0,-3.00931,not_candidate,not_candidate,False
+no_input_colexified,356,absent,BEAUTIFUL,CLEAN,beautiful,clean,10,4.97,0,-3.00822,not_candidate,not_candidate,False
+no_input_colexified,356,absent,FOREST,TREE,forest,tree,11,4.7,0,-2.99205,absent,claude_suggestion,False
+no_input_colexified,322,present,BOY,SON,boy,son,26,5.17,1,-1.50386,present,claude_suggestion,False
+no_input_colexified,322,absent,HUSBAND,WIFE,husband,wife,27,5,1,-1.52659,not_candidate,not_candidate,False
+no_input_colexified,322,absent,HOW,WHY,how,why,21,5.93,1,-1.46854,not_candidate,not_candidate,False
+no_input_colexified,322,absent,BELOW OR UNDER,LOW,under,low,24,5.33,1,-1.54826,not_candidate,not_candidate,False
+no_input_colexified,212,present,BLACK,DARK,black,dark,58,5.04,1,-0.378213,present,claude_suggestion,False
+no_input_colexified,212,absent,HOW,WHAT,how,what,36,6.24,1,-0.528896,not_candidate,not_candidate,False
+no_input_colexified,1591,present,SEE,UNDERSTAND,see,understand,3,5.37,0,-4.60271,present,claude_suggestion,False
+no_input_colexified,1591,absent,FIND,UNDERSTAND,find,understand,3,5.37,0,-4.60271,absent,claude_suggestion,False
+no_input_colexified,1591,absent,GIRL,YOUNG,girl,young,3,5.38,0,-4.59809,absent,claude_suggestion,False
+no_input_colexified,1591,absent,CLOUD,NIGHT,cloud,night,4,4.46,0,-4.59777,not_candidate,not_candidate,False
+no_input_colexified,576,unmatched_present,DARK,NIGHT,dark,night,27,5.04,0,-1.50812,present,claude_suggestion,False

@@ -1,0 +1,754 @@
+{
+  "generated": "2026-10-24",
+  "git_commit": "fdcd96d",
+  "n_placeholders": 187,
+  "n_used": 168,
+  "unused": [
+    "beta_R2",
+    "beta_R2_ci",
+    "beta_zipf_max",
+    "beta_zipf_max_ci",
+    "case_closest_pair",
+    "case_closest_rank",
+    "degree_max",
+    "h2_n_present_noic",
+    "h3_density_full",
+    "h3_density_rarefied",
+    "h3_joshi_full",
+    "h3_wiki_full",
+    "h3_wiki_rarefied",
+    "n_anchors",
+    "n_families_qualifying",
+    "n_families_total",
+    "n_pairs_total",
+    "python_version",
+    "smd_after"
+  ],
+  "word_count_body_excluding_tables_and_references": 5989,
+  "values": {
+    "abstract_h2": {
+      "value": "The English blind spot does not survive a matched design",
+      "source": "results/h2_blindspot.csv"
+    },
+    "abstract_h3": {
+      "value": "Within every one of the 16 qualifying families",
+      "source": "results/h3_family_fit.csv"
+    },
+    "ari_max": {
+      "value": "0.22",
+      "source": "results/h1_cluster_agreement.csv"
+    },
+    "ari_min": {
+      "value": "0.11",
+      "source": "results/h1_cluster_agreement.csv"
+    },
+    "ari_no_verbs": {
+      "value": "0.23",
+      "source": "results/h1_cluster_agreement.csv"
+    },
+    "audit_status": {
+      "value": "PROVISIONAL (Claude suggestions)",
+      "source": "results/h2_design.json"
+    },
+    "best_label": {
+      "value": "word2vec (EN, static)",
+      "source": "results/h1_alignment.csv"
+    },
+    "beta_R2": {
+      "value": "0.21",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_R2_ci": {
+      "value": "[n/a, n/a]",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_log_families": {
+      "value": "0.18",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_log_families_ci": {
+      "value": "[0.15, 0.22]",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_same_field": {
+      "value": "0.33",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_same_field_ci": {
+      "value": "[0.28, 0.38]",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_zipf_max": {
+      "value": "-0.06",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_zipf_max_ci": {
+      "value": "[-0.10, -0.03]",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_zipf_min": {
+      "value": "0.23",
+      "source": "results/h1_regression.csv"
+    },
+    "beta_zipf_min_ci": {
+      "value": "[0.17, 0.29]",
+      "source": "results/h1_regression.csv"
+    },
+    "case_closest_pair": {
+      "value": "tomorrow ~ yesterday",
+      "source": "results/h2_case_study.csv"
+    },
+    "case_closest_rank": {
+      "value": "0.006",
+      "source": "results/h2_case_study.csv"
+    },
+    "clics3_note": {
+      "value": "CLICS\u00b3's network has 4,228 edges over 2,919 concepts, of which 400 are in our working set and 886 edges fall inside it",
+      "source": "results/robustness.csv"
+    },
+    "clics3_rho": {
+      "value": "0.103",
+      "source": "results/robustness.csv"
+    },
+    "concept_order_sha": {
+      "value": "10cab02b133a",
+      "source": "results/concept_threshold.json"
+    },
+    "conditions_done": {
+      "value": "word2vec (EN, static)",
+      "source": "results/h1_alignment.csv"
+    },
+    "conditions_pending": {
+      "value": "BERT-base (EN), XLM-R base (multi), LaBSE (multi), XLM-R (multi input), LaBSE (multi input)",
+      "source": "results/h1_alignment.csv"
+    },
+    "degree_max": {
+      "value": "53",
+      "source": "results/network_summary.json"
+    },
+    "degree_median": {
+      "value": "9",
+      "source": "results/network_summary.json"
+    },
+    "dr_chosen": {
+      "value": "mds metric",
+      "source": "results/dr_quality.csv"
+    },
+    "dr_stress": {
+      "value": "0.30",
+      "source": "results/dr_quality.csv"
+    },
+    "dr_trust": {
+      "value": "0.79",
+      "source": "results/dr_quality.csv"
+    },
+    "edge_max": {
+      "value": "199",
+      "source": "results/network_summary.json"
+    },
+    "edge_q90": {
+      "value": "10",
+      "source": "results/network_summary.json"
+    },
+    "family_ie_n": {
+      "value": "63",
+      "source": "results/family_subnetworks.csv"
+    },
+    "family_largest": {
+      "value": "Austronesian",
+      "source": "results/family_subnetworks.csv"
+    },
+    "family_largest_n": {
+      "value": "401",
+      "source": "results/family_subnetworks.csv"
+    },
+    "generated_on": {
+      "value": "2026-10-24",
+      "source": "build time"
+    },
+    "git_commit": {
+      "value": "fdcd96d",
+      "source": "git"
+    },
+    "gm_absent": {
+      "value": "3",
+      "source": "results/h2_balance.csv"
+    },
+    "gm_present": {
+      "value": "14",
+      "source": "results/h2_balance.csv"
+    },
+    "h1_ari": {
+      "value": "0.17",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_ci": {
+      "value": "[0.099, 0.160]",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_drop": {
+      "value": "0.045",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_drop_share": {
+      "value": "35%",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_k": {
+      "value": "22",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_m2": {
+      "value": "0.83",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_n_procrustes": {
+      "value": "325",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_nmi": {
+      "value": "0.47",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_null_sd": {
+      "value": "0.009",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_p": {
+      "value": "*p* < .001",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_partial": {
+      "value": "0.084",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_partial_field": {
+      "value": "0.097",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_partial_freq": {
+      "value": "0.114",
+      "source": "results/h1_alignment.csv"
+    },
+    "h1_rho": {
+      "value": "0.129",
+      "source": "results/h1_alignment.csv"
+    },
+    "h2_caliper": {
+      "value": "0.22",
+      "source": "results/h2_design.json"
+    },
+    "h2_ci": {
+      "value": "[-0.05, 0.37]",
+      "source": "results/h2_blindspot.csv"
+    },
+    "h2_ci_unmatched": {
+      "value": "[0.45, 0.70]",
+      "source": "results/h2_blindspot.csv"
+    },
+    "h2_delta": {
+      "value": "0.17",
+      "source": "results/h2_blindspot.csv"
+    },
+    "h2_delta_unmatched": {
+      "value": "0.59",
+      "source": "results/h2_blindspot.csv"
+    },
+    "h2_fragility_list": {
+      "value": "Audited *unsure* pairs counted as English-absent instead of excluded; Audited *unsure* pairs counted as English-present instead of excluded; Caliper 0.10 SD instead of 0.20 SD; Edge rule >= 1 family instead of >= 2, population rebuilt; Edge rule >= 3 family instead of >= 2, population rebuilt; Raw cosine as the outcome instead of the mutual neighbour rank",
+      "source": "results/robustness.csv"
+    },
+    "h2_interaction": {
+      "value": "PENDING USER RUN: needs at least two model conditions",
+      "source": "results/h2_design.json"
+    },
+    "h2_k": {
+      "value": "3",
+      "source": "results/h2_design.json"
+    },
+    "h2_lofo_supported_families": {
+      "value": "Afro-Asiatic, Atlantic-Congo",
+      "source": "results/robustness.csv"
+    },
+    "h2_matched_absent": {
+      "value": "103",
+      "source": "results/h2_design.json"
+    },
+    "h2_matched_present": {
+      "value": "35",
+      "source": "results/h2_design.json"
+    },
+    "h2_median_absent": {
+      "value": "0.027",
+      "source": "results/h2_blindspot.csv"
+    },
+    "h2_median_present": {
+      "value": "0.014",
+      "source": "results/h2_blindspot.csv"
+    },
+    "h2_n_absent": {
+      "value": "1,736",
+      "source": "results/h2_design.json"
+    },
+    "h2_n_present": {
+      "value": "38",
+      "source": "results/h2_design.json"
+    },
+    "h2_n_present_noic": {
+      "value": "31",
+      "source": "results/h2_design.json"
+    },
+    "h2_p": {
+      "value": "*p* = .065",
+      "source": "results/h2_blindspot.csv"
+    },
+    "h2_p_unmatched": {
+      "value": "*p* < .001",
+      "source": "results/h2_blindspot.csv"
+    },
+    "h2_unmatched_present": {
+      "value": "3",
+      "source": "results/h2_design.json"
+    },
+    "h3_all_above": {
+      "value": "within every one of the 16 families tested",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_auc_max": {
+      "value": "0.92",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_auc_min": {
+      "value": "0.66",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_best_family": {
+      "value": "Indo-European",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_density_full": {
+      "value": "\u03c1 = -0.18, *p* = .751, 16 families",
+      "source": "results/h3_typology.csv"
+    },
+    "h3_density_rarefied": {
+      "value": "\u03c1 = 0.32, *p* = .113, 16 families",
+      "source": "results/h3_typology.csv"
+    },
+    "h3_density_rho": {
+      "value": "-0.18",
+      "source": "results/h3_typology.csv"
+    },
+    "h3_density_two_sided": {
+      "value": "*p* = .505",
+      "source": "results/h3_typology.csv"
+    },
+    "h3_ie_auc": {
+      "value": "0.92",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_ie_ci": {
+      "value": "[0.86, 0.96]",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_joshi_full": {
+      "value": "\u03c1 = 0.35, *p* = .157, 10 families",
+      "source": "results/h3_typology.csv"
+    },
+    "h3_joshi_rarefied": {
+      "value": "\u03c1 = -0.05, *p* = .559, 10 families",
+      "source": "results/h3_typology.csv"
+    },
+    "h3_n_families": {
+      "value": "16",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_p_max": {
+      "value": "*p* < .001",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_rare_max": {
+      "value": "0.95",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_rare_min": {
+      "value": "0.69",
+      "source": "results/h3_family_fit.csv"
+    },
+    "h3_wiki_full": {
+      "value": "PENDING USER RUN",
+      "source": "results/h3_typology.csv"
+    },
+    "h3_wiki_rarefied": {
+      "value": "PENDING USER RUN",
+      "source": "results/h3_typology.csv"
+    },
+    "h3_worst_family": {
+      "value": "Sino-Tibetan",
+      "source": "results/h3_family_fit.csv"
+    },
+    "infomap_status": {
+      "value": "PENDING USER RUN: `pip install infomap==2.8.0`, then `python",
+      "source": "results/community_stability.json"
+    },
+    "joshi_status": {
+      "value": "PROVISIONAL: 37 languages whose class the paper states (lower bounds per family); for the full taxonomy place lang2tax.txt at data/raw/joshi/lang2tax.txt",
+      "source": "results/resource_proxies_status.json"
+    },
+    "kal_closer": {
+      "value": "2",
+      "source": "results/h2_case_study.csv"
+    },
+    "knee": {
+      "value": "85",
+      "source": "results/concept_threshold.json"
+    },
+    "knee_n": {
+      "value": "436",
+      "source": "results/concept_threshold.json"
+    },
+    "lang_above_chance": {
+      "value": "97.9%",
+      "source": "results/h3_language_agreement.csv"
+    },
+    "lang_auc_median": {
+      "value": "0.80",
+      "source": "results/h3_language_agreement.csv"
+    },
+    "largest_component": {
+      "value": "415",
+      "source": "results/network_summary.json"
+    },
+    "lofo_range": {
+      "value": "min rho 0.119, max rho 0.130",
+      "source": "results/robustness.csv"
+    },
+    "louvain_ari": {
+      "value": "0.89",
+      "source": "results/community_stability.json"
+    },
+    "louvain_ari_q25": {
+      "value": "0.85",
+      "source": "results/community_stability.json"
+    },
+    "louvain_ari_q75": {
+      "value": "0.92",
+      "source": "results/community_stability.json"
+    },
+    "macro_max": {
+      "value": "0.84",
+      "source": "results/h3_language_agreement.csv"
+    },
+    "macro_max_name": {
+      "value": "South America",
+      "source": "results/h3_language_agreement.csv"
+    },
+    "macro_min": {
+      "value": "0.77",
+      "source": "results/h3_language_agreement.csv"
+    },
+    "macro_min_name": {
+      "value": "Papunesia",
+      "source": "results/h3_language_agreement.csv"
+    },
+    "mean_cos_centred": {
+      "value": "-0.001",
+      "source": "results/model_similarity_summary.csv"
+    },
+    "mean_cos_raw": {
+      "value": "0.12",
+      "source": "results/model_similarity_summary.csv"
+    },
+    "modularity": {
+      "value": "0.66",
+      "source": "results/community_stability.json"
+    },
+    "n_analysis": {
+      "value": "330",
+      "source": "results/analysis_concept_set.json"
+    },
+    "n_analysis_pairs": {
+      "value": "54,285",
+      "source": "results/analysis_concept_set.json"
+    },
+    "n_anchors": {
+      "value": "2",
+      "source": "results/concept_threshold.json"
+    },
+    "n_candidate_pairs": {
+      "value": "3,579",
+      "source": "results/english_colex_summary.json"
+    },
+    "n_checks": {
+      "value": "38",
+      "source": "results/robustness_summary.csv"
+    },
+    "n_colex_any": {
+      "value": "11,822",
+      "source": "results/network_summary.json"
+    },
+    "n_communities": {
+      "value": "29",
+      "source": "results/community_stability.json"
+    },
+    "n_concepts_total": {
+      "value": "1,730",
+      "source": "results/concept_threshold.json"
+    },
+    "n_conditions": {
+      "value": "6",
+      "source": "results/h1_alignment.csv"
+    },
+    "n_conditions_done": {
+      "value": "1",
+      "source": "results/h1_alignment.csv"
+    },
+    "n_conditions_pending": {
+      "value": "5",
+      "source": "results/h1_alignment.csv"
+    },
+    "n_curated_forms": {
+      "value": "0",
+      "source": "results/translated_coverage.json"
+    },
+    "n_edges": {
+      "value": "2,459",
+      "source": "results/network_summary.json"
+    },
+    "n_edges_evidence_all": {
+      "value": "2,984",
+      "source": "results/colex_operationalisations.json"
+    },
+    "n_excluded": {
+      "value": "11",
+      "source": "results/concept_threshold.json"
+    },
+    "n_fail": {
+      "value": "10",
+      "source": "results/robustness_summary.csv"
+    },
+    "n_families": {
+      "value": "246",
+      "source": "results/language_summary.json"
+    },
+    "n_families_qualifying": {
+      "value": "16",
+      "source": "results/network_summary.json"
+    },
+    "n_families_total": {
+      "value": "246",
+      "source": "results/family_subnetworks.csv"
+    },
+    "n_family_disagreements": {
+      "value": "0",
+      "source": "results/language_summary.json"
+    },
+    "n_fields": {
+      "value": "22",
+      "source": "results/concept_threshold.json"
+    },
+    "n_h2_lofo": {
+      "value": "16",
+      "source": "results/robustness.csv"
+    },
+    "n_h2_lofo_supported": {
+      "value": "2",
+      "source": "results/robustness.csv"
+    },
+    "n_h2_variants": {
+      "value": "10",
+      "source": "results/robustness.csv"
+    },
+    "n_h2_variants_supported": {
+      "value": "6",
+      "source": "results/robustness.csv"
+    },
+    "n_in_wordnet": {
+      "value": "408",
+      "source": "results/english_colex_summary.json"
+    },
+    "n_isolated": {
+      "value": "12",
+      "source": "results/network_summary.json"
+    },
+    "n_isolates": {
+      "value": "71",
+      "source": "results/language_summary.json"
+    },
+    "n_joshi_families": {
+      "value": "10",
+      "source": "results/resource_proxies_status.json"
+    },
+    "n_languages": {
+      "value": "2,002",
+      "source": "results/language_summary.json"
+    },
+    "n_languages_mapped": {
+      "value": "1,409",
+      "source": "results/h3_language_agreement.csv"
+    },
+    "n_languages_total": {
+      "value": "2,002",
+      "source": "results/h3_language_agreement.csv"
+    },
+    "n_mds_concepts": {
+      "value": "415",
+      "source": "results/dr_quality.csv"
+    },
+    "n_overrides": {
+      "value": "36",
+      "source": "results/concept_threshold.json"
+    },
+    "n_pairs_clics": {
+      "value": "51,562",
+      "source": "results/clics_validation.json"
+    },
+    "n_pairs_total": {
+      "value": "90,951",
+      "source": "results/network_summary.json"
+    },
+    "n_pending_checks": {
+      "value": "5",
+      "source": "results/robustness_summary.csv"
+    },
+    "n_references": {
+      "value": "44",
+      "source": "report/references.bib"
+    },
+    "n_robustness_set": {
+      "value": "358",
+      "source": "results/concept_threshold.json"
+    },
+    "n_single_family": {
+      "value": "9,363",
+      "source": "results/network_summary.json"
+    },
+    "n_survive": {
+      "value": "23",
+      "source": "results/robustness_summary.csv"
+    },
+    "n_translated_concepts": {
+      "value": "331",
+      "source": "results/translated_coverage.json"
+    },
+    "n_varieties": {
+      "value": "3,447",
+      "source": "results/language_summary.json"
+    },
+    "n_varieties_included": {
+      "value": "3,438",
+      "source": "results/language_summary.json"
+    },
+    "n_working": {
+      "value": "427",
+      "source": "results/concept_threshold.json"
+    },
+    "p_log_families": {
+      "value": "*p* < .001",
+      "source": "results/h1_regression.csv"
+    },
+    "python_version": {
+      "value": "3.13.17",
+      "source": "environment"
+    },
+    "sens_delta": {
+      "value": "0.19",
+      "source": "results/h2_matching_sensitivity.csv"
+    },
+    "sens_delta_noic": {
+      "value": "0.13",
+      "source": "results/h2_matching_sensitivity.csv"
+    },
+    "sens_hi": {
+      "value": "0.23",
+      "source": "results/h2_matching_sensitivity.csv"
+    },
+    "sens_lo": {
+      "value": "0.16",
+      "source": "results/h2_matching_sensitivity.csv"
+    },
+    "sens_p": {
+      "value": "*p* = .044",
+      "source": "results/h2_matching_sensitivity.csv"
+    },
+    "sens_runs": {
+      "value": "200",
+      "source": "results/h2_matching_sensitivity.csv"
+    },
+    "sens_share": {
+      "value": "68%",
+      "source": "results/h2_matching_sensitivity.csv"
+    },
+    "sens_share_noic": {
+      "value": "0%",
+      "source": "results/h2_matching_sensitivity.csv"
+    },
+    "share_single_family": {
+      "value": "79%",
+      "source": "results/network_summary.json"
+    },
+    "smd_after": {
+      "value": "0.04",
+      "source": "results/h2_balance.csv"
+    },
+    "smd_after_max": {
+      "value": "0.06",
+      "source": "results/h2_balance.csv"
+    },
+    "smd_before": {
+      "value": "1.87",
+      "source": "results/h2_balance.csv"
+    },
+    "spearman_evidence": {
+      "value": "0.92",
+      "source": "results/colex_operationalisations.json"
+    },
+    "stability_verdict": {
+      "value": "moderately stable",
+      "source": "results/community_stability.json"
+    },
+    "ties_profile_cosine": {
+      "value": "73%",
+      "source": "results/typological_matrix_ties.csv"
+    },
+    "ties_shortest_path": {
+      "value": "5.5%",
+      "source": "results/typological_matrix_ties.csv"
+    },
+    "top_hub": {
+      "value": "SAY",
+      "source": "results/network_summary.json"
+    },
+    "translated_min_units": {
+      "value": "3",
+      "source": "results/translated_coverage.json"
+    },
+    "validation_share": {
+      "value": "100%",
+      "source": "results/clics_validation.json"
+    },
+    "verdict_h1": {
+      "value": "H1 is supported for every condition computed so far",
+      "source": "results/h1_alignment.csv"
+    },
+    "verdict_h2": {
+      "value": "H2 is not supported at \u03b1 = .05: after matching, English-present and English-absent colexifications are not reliably different in model space",
+      "source": "results/h2_blindspot.csv"
+    },
+    "verdict_h3": {
+      "value": "H3 cannot be decided yet: the confirmatory proxy (Wikipedia article counts) is PENDING USER RUN",
+      "source": "results/h3_typology.csv"
+    },
+    "w2v_embedded": {
+      "value": "426",
+      "source": "results/embedding_coverage.csv"
+    },
+    "w2v_missing": {
+      "value": "and",
+      "source": "results/embedding_coverage.csv"
+    },
+    "wiki_status": {
+      "value": "PENDING USER RUN: `python run.py analyse` with internet access (query.wikidata.org, meta.wikimedia.org, *.wikipedia.org)",
+      "source": "results/resource_proxies_status.json"
+    }
+  }
+}

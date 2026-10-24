@@ -1,0 +1,26 @@
+{
+  "file": "h1_alignment.csv",
+  "producer": "__main__",
+  "utc_time": "2026-10-23T21:43:36+00:00",
+  "seed": 20261016,
+  "git_commit": "d1e3594",
+  "python": "3.13.17",
+  "platform": "Linux-6.18.44-fc-v153-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "pandas": "3.0.5",
+    "networkx": "3.7",
+    "scikit-learn": "1.9.1",
+    "statsmodels": "not installed",
+    "pycldf": "not installed",
+    "gensim": "not installed",
+    "torch": "not installed",
+    "transformers": "not installed",
+    "sentence-transformers": "not installed",
+    "umap-learn": "not installed"
+  },
+  "n_permutations": 10000,
+  "n_bootstrap": 2000,
+  "typological_metric": "shortest_path"
+}

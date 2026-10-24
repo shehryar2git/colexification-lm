@@ -1,0 +1,428 @@
+concept_id,community,gloss,semantic_field,weighted_degree,degree,coassignment_with_own_community,label
+EAT,0,eat,Food and drink,188,49,0.986505,eat / say / see
+SAY,0,say,Speech and language,170,53,0.986505,eat / say / see
+SEE,0,see,Sense perception,167,37,0.968447,eat / say / see
+HEAR,0,hear,Sense perception,146,33,0.968447,eat / say / see
+KILL,0,kill,The body,144,28,0.986505,eat / say / see
+COME,0,come,Motion,143,49,0.986505,eat / say / see
+DIE,0,die,The body,129,47,0.986505,eat / say / see
+DRINK,0,drink,Food and drink,126,29,0.986505,eat / say / see
+TAKE,0,take,Possession,117,21,0.986505,eat / say / see
+BITE,0,bite,The body,112,33,0.986505,eat / say / see
+WALK,0,walk,Motion,111,24,0.986505,eat / say / see
+GO,0,go,Motion,105,23,0.986505,eat / say / see
+STRIKE,0,strike,Basic actions and technology,105,25,0.986505,eat / say / see
+SUCK,0,suck,Food and drink,103,31,0.986505,eat / say / see
+DIG,0,dig,Agriculture and vegetation,100,38,0.986505,eat / say / see
+KNOW (SOMETHING),0,know,Cognition,100,18,0.968447,eat / say / see
+LIE DOWN,0,lie down,Spatial relations,97,25,0.986505,eat / say / see
+HOLD,0,hold,Possession,95,27,0.986505,eat / say / see
+BE ALIVE,0,alive,The body,94,22,0.97835,eat / say / see
+SHOOT,0,shoot,Warfare and hunting,93,22,0.986505,eat / say / see
+CARRY,0,carry,Motion,88,20,0.986505,eat / say / see
+FLY (MOVE THROUGH AIR),0,fly,Motion,86,26,0.97835,eat / say / see
+ROTTEN,0,rotten,Food and drink,86,28,0.968447,eat / say / see
+SLEEP,0,sleep,The body,85,19,0.986505,eat / say / see
+LOOK,0,look,Sense perception,84,18,0.968447,eat / say / see
+WANT,0,want,Emotions and values,84,25,0.974854,eat / say / see
+SPEAK,0,speak,Speech and language,79,17,0.986505,eat / say / see
+CUT,0,cut,Basic actions and technology,76,28,0.986505,eat / say / see
+FLOW,0,flow,Motion,75,18,0.986505,eat / say / see
+SIT,0,sit,Spatial relations,74,21,0.97835,eat / say / see
+SMELL (PERCEIVE),0,smell,Sense perception,70,14,0.968447,eat / say / see
+HUNT,0,hunt,Warfare and hunting,69,21,0.986505,eat / say / see
+UNDERSTAND,0,understand,Cognition,69,7,0.968447,eat / say / see
+FALL,0,fall,Motion,68,26,0.986505,eat / say / see
+GIVE,0,give,Possession,67,26,0.986505,eat / say / see
+SWIM,0,swim,Motion,65,23,0.986505,eat / say / see
+DO,0,do,Basic actions and technology,60,20,0.986505,eat / say / see
+COOK (SOMETHING),0,cook,Food and drink,59,25,0.986505,eat / say / see
+PULL,0,pull,Basic actions and technology,55,20,0.986505,eat / say / see
+LOOK FOR,0,search,Possession,54,13,0.968447,eat / say / see
+THROW,0,throw,Motion,52,13,0.986505,eat / say / see
+BURNING,0,burning,The physical world,51,12,0.734175,eat / say / see
+WASH,0,wash,Basic actions and technology,49,15,0.986505,eat / say / see
+FIND,0,find,Possession,48,7,0.968447,eat / say / see
+FLY (INSECT),0,housefly,Animals,48,8,0.97835,eat / say / see
+EAR,0,ear,The body,47,16,0.968447,eat / say / see
+LAUGH,0,laugh,Emotions and values,45,20,0.986505,eat / say / see
+THINK (BELIEVE),0,believe,Cognition,44,6,0.968447,eat / say / see
+CHEW,0,chew,Food and drink,43,9,0.986505,eat / say / see
+STAND,0,stand,Spatial relations,43,19,0.97835,eat / say / see
+BRING,0,bring,Motion,42,7,0.986505,eat / say / see
+SING,0,sing,Speech and language,42,15,0.986505,eat / say / see
+BURN (SOMETHING),0,burn,The physical world,40,8,0.734175,eat / say / see
+CRY,0,cry,Emotions and values,40,17,0.986505,eat / say / see
+RUB,0,rub,Basic actions and technology,40,17,0.986505,eat / say / see
+LOVE,0,love,Emotions and values,39,7,0.974854,eat / say / see
+MOSQUITO,0,mosquito,Animals,39,14,0.97835,eat / say / see
+FIGHT,0,fight,Warfare and hunting,38,16,0.986505,eat / say / see
+OPEN,0,open,Spatial relations,38,18,0.986505,eat / say / see
+PUSH,0,push,Motion,37,15,0.986505,eat / say / see
+SCRATCH,0,scratch,The body,37,13,0.986505,eat / say / see
+THINK (REFLECT),0,think,Cognition,37,7,0.968447,eat / say / see
+BATHE,0,bathe,The body,36,6,0.986505,eat / say / see
+BUY,0,buy,Possession,35,12,0.986505,eat / say / see
+SNAKE,0,snake,Animals,34,13,0.986505,eat / say / see
+VOMIT,0,vomit,The body,33,14,0.928252,eat / say / see
+BREATHE,0,breathe,The body,31,11,0.97835,eat / say / see
+SMELL (STINK),0,stink,Sense perception,31,3,0.968447,eat / say / see
+RUN,0,run,Motion,30,7,0.986505,eat / say / see
+SPLIT,0,split,Basic actions and technology,29,8,0.986505,eat / say / see
+ROPE,0,rope,Basic actions and technology,28,13,0.986505,eat / say / see
+SEW,0,sew,Clothing and grooming,26,11,0.986505,eat / say / see
+COUNT,0,count,Quantity,25,10,0.968447,eat / say / see
+SQUEEZE,0,squeeze,Basic actions and technology,25,8,0.986505,eat / say / see
+TURN AROUND,0,turn around,Motion,25,6,0.968447,eat / say / see
+STEAL,0,steal,Law,23,10,0.986505,eat / say / see
+DREAM (SOMETHING),0,dream,The body,22,7,0.986505,eat / say / see
+TURN (SOMETHING),0,turn,Motion,18,3,0.968447,eat / say / see
+TOUCH,0,touch,Sense perception,17,6,0.986505,eat / say / see
+SPIT,0,spit,The body,16,6,0.928252,eat / say / see
+TIE,0,tie,Basic actions and technology,16,7,0.986505,eat / say / see
+DANCE,0,dance,Motion,14,3,0.986505,eat / say / see
+HAPPY,0,happy,Emotions and values,14,4,0.974854,eat / say / see
+PLAY,0,play,Emotions and values,14,4,0.986505,eat / say / see
+SPIDER,0,spider,Animals,13,6,0.97835,eat / say / see
+AXE,0,axe,Basic actions and technology,12,6,0.966893,eat / say / see
+BED,0,bed,The house,12,4,0.986505,eat / say / see
+FEAR (BE AFRAID),0,fear,Emotions and values,12,6,0.97835,eat / say / see
+WORM,0,worm,Animals,12,3,0.986505,eat / say / see
+ASK (INQUIRE),0,ask,Speech and language,10,4,0.968447,eat / say / see
+TASTE,0,taste,Food and drink,9,3,0.968447,eat / say / see
+CANOE,0,canoe,Motion,8,4,0.986505,eat / say / see
+FROG,0,frog,Animals,8,4,0.986505,eat / say / see
+SNEEZE,0,sneeze,The body,8,3,0.986505,eat / say / see
+WORK (ACTIVITY),0,work,Basic actions and technology,8,2,0.986505,eat / say / see
+YAWN,0,yawn,The body,8,4,0.986505,eat / say / see
+BREAK (CLEAVE),0,cleave,Basic actions and technology,7,3,0.986505,eat / say / see
+BEAT,0,beat,Basic actions and technology,6,3,0.986505,eat / say / see
+COUGH,0,cough,The body,6,2,0.986505,eat / say / see
+ANGRY,0,angry,Emotions and values,4,2,0.986505,eat / say / see
+SNORE,0,snore,The body,4,2,0.97835,eat / say / see
+ANT,0,ant,Animals,2,1,0.968447,eat / say / see
+SAD,0,sad,Emotions and values,2,1,0.986505,eat / say / see
+TURTLE,0,turtle,Animals,2,1,0.986505,eat / say / see
+SMALL,1,small,Spatial relations,143,16,0.7815,small / what / short
+WHAT,1,what,Cognition,130,20,0.62325,small / what / short
+SHORT,1,short,Spatial relations,113,20,0.784,small / what / short
+LOW,1,low,Spatial relations,99,11,0.784,small / what / short
+BELOW OR UNDER,1,under,Spatial relations,96,21,0.784,small / what / short
+FEW,1,few,Quantity,95,15,0.7815,small / what / short
+HOW,1,how,Cognition,87,7,0.62325,small / what / short
+AFTERWARDS,1,afterwards,Time,80,13,0.70875,small / what / short
+BEHIND,1,behind,Spatial relations,74,8,0.70875,small / what / short
+NEAR,1,near,Spatial relations,73,22,0.784,small / what / short
+ONE,1,one,Quantity,72,25,0.7815,small / what / short
+BACK,1,back,The body,67,19,0.70875,small / what / short
+NARROW,1,narrow,Spatial relations,67,8,0.7815,small / what / short
+SOME,1,some,Quantity,61,11,0.7815,small / what / short
+TAIL,1,tail,The body,59,25,0.45125,small / what / short
+WHO,1,who,Cognition,58,11,0.62325,small / what / short
+BEFORE,1,before,Time,56,9,0.73075,small / what / short
+THIN (OF SHAPE OF OBJECT),1,thin,Spatial relations,56,9,0.7815,small / what / short
+IN FRONT OF,1,in front of,Spatial relations,55,9,0.73075,small / what / short
+SHALLOW,1,shallow,Spatial relations,55,9,0.784,small / what / short
+INSIDE,1,inside,Spatial relations,52,13,0.784,small / what / short
+WHY,1,why,Cognition,49,5,0.62325,small / what / short
+IF,1,if,Cognition,47,14,0.62325,small / what / short
+WHERE,1,where,Cognition,47,11,0.62325,small / what / short
+AND,1,and,Cognition,43,14,0.73,small / what / short
+IN,1,in,Spatial relations,41,10,0.784,small / what / short
+WHEN,1,when,Cognition,40,7,0.62325,small / what / short
+OTHER,1,other,Miscellaneous function words,38,12,0.7815,small / what / short
+BECAUSE,1,because,Cognition,31,10,0.62325,small / what / short
+BESIDE,1,beside,Spatial relations,31,8,0.784,small / what / short
+THEN,1,then,Time,29,6,0.70875,small / what / short
+BUTTOCKS,1,buttocks,The body,24,6,0.70875,small / what / short
+AGAIN,1,again,Time,23,4,0.73,small / what / short
+HALF,1,half,Quantity,21,5,0.7815,small / what / short
+PART,1,part,Quantity,21,3,0.7815,small / what / short
+OUTSIDE,1,outside,Spatial relations,16,5,0.70875,small / what / short
+THIN (SLIM),1,slim,Spatial relations,12,3,0.7815,small / what / short
+ROUND,1,round,Spatial relations,7,2,0.784,small / what / short
+FENCE,1,fence,Agriculture and vegetation,6,1,0.784,small / what / short
+BETWEEN,1,between,Spatial relations,5,2,0.7815,small / what / short
+SAME,1,same,Miscellaneous function words,4,2,0.54125,small / what / short
+SKIN,2,skin,The body,152,32,0.774722,skin / flesh / seed
+FLESH,2,flesh,The body,97,10,0.774722,skin / flesh / seed
+SEED,2,seed,Agriculture and vegetation,95,23,0.789444,skin / flesh / seed
+EGG,2,egg,Food and drink,93,24,0.789444,skin / flesh / seed
+MEAT,2,meat,Food and drink,88,11,0.774722,skin / flesh / seed
+EYE,2,eye,The body,87,24,0.789444,skin / flesh / seed
+FRUIT,2,fruit,Food and drink,82,28,0.789444,skin / flesh / seed
+BARK,2,bark,Agriculture and vegetation,77,6,0.774722,skin / flesh / seed
+BODY,2,body,The body,73,11,0.774722,skin / flesh / seed
+FACE,2,face,The body,58,9,0.789444,skin / flesh / seed
+FISH,2,fish,Animals,56,23,0.774722,skin / flesh / seed
+BIRD,2,bird,Animals,54,20,0.774722,skin / flesh / seed
+MOUNTAIN,2,mountain,The physical world,53,9,0.789444,skin / flesh / seed
+STONE,2,stone,The physical world,47,15,0.789444,skin / flesh / seed
+PENIS,2,penis,The body,36,10,0.789444,skin / flesh / seed
+TESTICLES,2,testicles,The body,34,4,0.789444,skin / flesh / seed
+ANIMAL,2,animal,Animals,33,6,0.774722,skin / flesh / seed
+FLOWER,2,flower,Agriculture and vegetation,30,12,0.586111,skin / flesh / seed
+DOG,2,dog,Animals,28,13,0.748056,skin / flesh / seed
+NOSE,2,nose,The body,27,11,0.789444,skin / flesh / seed
+STAR,2,star,The physical world,24,11,0.789444,skin / flesh / seed
+HILL,2,hill,The physical world,23,3,0.789444,skin / flesh / seed
+FOREHEAD,2,forehead,The body,22,3,0.789444,skin / flesh / seed
+HIDE (CONCEAL),2,conceal,Spatial relations,21,4,0.761944,skin / flesh / seed
+DEER,2,deer,Animals,19,9,0.774722,skin / flesh / seed
+CHEEK,2,cheek,The body,14,2,0.789444,skin / flesh / seed
+HIDE (ONESELF),2,hide,Spatial relations,13,1,0.761944,skin / flesh / seed
+POT,2,pot,Food and drink,13,6,0.774722,skin / flesh / seed
+CLOTHES,2,clothes,Clothing and grooming,12,5,0.774722,skin / flesh / seed
+BASKET,2,basket,Basic actions and technology,11,4,0.774722,skin / flesh / seed
+DRUM,2,drum,Speech and language,10,5,0.38,skin / flesh / seed
+CAT,2,cat,Animals,7,3,0.748056,skin / flesh / seed
+DUCK,2,duck,Animals,7,3,0.774722,skin / flesh / seed
+HORSE,2,horse,Animals,7,3,0.748056,skin / flesh / seed
+CHICKEN,2,chicken,Animals,6,2,0.774722,skin / flesh / seed
+BROOM,2,broom,Basic actions and technology,2,1,0.774722,skin / flesh / seed
+VULVA,2,vulva,The body,2,1,0.789444,skin / flesh / seed
+HAND,3,hand,The body,307,35,0.901724,hand / forearm / upper arm
+LOWER ARM,3,forearm,The body,305,8,0.901724,hand / forearm / upper arm
+UPPER ARM,3,upper arm,The body,299,8,0.901724,hand / forearm / upper arm
+FEATHER,3,feather,The body,172,17,0.924483,hand / forearm / upper arm
+WING,3,wing,The body,129,16,0.924483,hand / forearm / upper arm
+ARM,3,arm,The body,123,18,0.901724,hand / forearm / upper arm
+LEAF,3,leaf,Agriculture and vegetation,121,35,0.924483,hand / forearm / upper arm
+HEAD,3,head,The body,112,34,0.924483,hand / forearm / upper arm
+FINGER,3,finger,The body,108,10,0.901724,hand / forearm / upper arm
+HAIR (HEAD),3,head hair,The body,93,13,0.924483,hand / forearm / upper arm
+CLAW,3,claw,Animals,80,6,0.901724,hand / forearm / upper arm
+HOUSE,3,house,The house,76,27,0.82931,hand / forearm / upper arm
+TOE,3,toe,The body,69,7,0.901724,hand / forearm / upper arm
+FINGERNAIL,3,fingernail,The body,68,6,0.901724,hand / forearm / upper arm
+HAIR (BODY),3,body hair,The body,68,7,0.924483,hand / forearm / upper arm
+HAIR,3,hair,The body,55,5,0.924483,hand / forearm / upper arm
+GRASS,3,grass,Agriculture and vegetation,54,14,0.85,hand / forearm / upper arm
+SHOULDER,3,shoulder,The body,48,13,0.901724,hand / forearm / upper arm
+BRANCH,3,branch,Agriculture and vegetation,46,11,0.901724,hand / forearm / upper arm
+ROOF,3,roof,The house,29,4,0.82931,hand / forearm / upper arm
+THATCH,3,thatch,The house,27,5,0.82931,hand / forearm / upper arm
+VILLAGE,3,village,Social and political relations,26,6,0.82931,hand / forearm / upper arm
+BEARD,3,beard,The body,22,4,0.924483,hand / forearm / upper arm
+CHIN,3,chin,The body,22,4,0.924483,hand / forearm / upper arm
+HORN (ANATOMY),3,horn,The body,22,7,0.901724,hand / forearm / upper arm
+CHIEFTAIN,3,chief,Social and political relations,14,3,0.924483,hand / forearm / upper arm
+ARMPIT,3,armpit,The body,10,4,0.924483,hand / forearm / upper arm
+BRAIN,3,brain,The body,10,3,0.924483,hand / forearm / upper arm
+NEEDLE (FOR SEWING),3,needle,Clothing and grooming,10,5,0.901724,hand / forearm / upper arm
+NAVEL,3,navel,The body,4,2,0.82931,hand / forearm / upper arm
+SUN,4,sun,The physical world,144,23,0.93625,sun / cloud / day
+CLOUD,4,cloud,The physical world,143,22,0.959583,sun / cloud / day
+DAY (NOT NIGHT),4,day,Time,137,19,0.93625,sun / cloud / day
+SKY,4,sky,The physical world,117,20,0.959583,sun / cloud / day
+DUST,4,dust,The physical world,108,13,0.959583,sun / cloud / day
+EARTH (SOIL),4,soil,The physical world,107,25,0.959583,sun / cloud / day
+WIND,4,wind,The physical world,102,18,0.947083,sun / cloud / day
+SMOKE (EXHAUST),4,smoke,The physical world,91,21,0.959583,sun / cloud / day
+WHITE,4,white,Sense perception,80,18,0.93625,sun / cloud / day
+FOG,4,fog,The physical world,74,8,0.959583,sun / cloud / day
+LIGHT (RADIATION),4,light,The physical world,64,12,0.93625,sun / cloud / day
+ASH,4,ash,The physical world,61,12,0.959583,sun / cloud / day
+SAND,4,sand,The physical world,59,16,0.959583,sun / cloud / day
+LIGHT (COLOR),4,pale,Sense perception,57,8,0.93625,sun / cloud / day
+BLOW (OF WIND),4,blow,Motion,56,17,0.947083,sun / cloud / day
+AIR,4,air,The physical world,55,3,0.947083,sun / cloud / day
+THUNDER,4,thunder,The physical world,41,9,0.959583,sun / cloud / day
+TOMORROW,4,tomorrow,Time,41,5,0.93625,sun / cloud / day
+COLD,4,cold,Sense perception,40,12,0.90375,sun / cloud / day
+MOON,4,moon,The physical world,35,10,0.93625,sun / cloud / day
+LIGHTNING,4,lightning,The physical world,25,4,0.959583,sun / cloud / day
+MORNING,4,morning,Time,22,3,0.93625,sun / cloud / day
+YESTERDAY,4,yesterday,Time,18,2,0.93625,sun / cloud / day
+TOBACCO,4,tobacco,Agriculture and vegetation,13,4,0.9125,sun / cloud / day
+SHADE,4,shade,The physical world,7,3,0.90375,sun / cloud / day
+BIG,5,big,Spatial relations,168,23,0.859524,big / sharp / long
+SHARP,5,sharp,Sense perception,116,30,0.852857,big / sharp / long
+LONG,5,long,Spatial relations,113,14,0.702381,big / sharp / long
+THICK,5,thick,Spatial relations,92,18,0.859524,big / sharp / long
+HIGH,5,high,Spatial relations,89,9,0.702381,big / sharp / long
+HARD,5,hard,Sense perception,73,13,0.859524,big / sharp / long
+HOT,5,hot,Sense perception,70,18,0.408095,big / sharp / long
+WIDE,5,wide,Spatial relations,69,6,0.859524,big / sharp / long
+ABOVE,5,above,Spatial relations,64,14,0.702381,big / sharp / long
+FAR,5,far,Spatial relations,64,14,0.702381,big / sharp / long
+DEEP,5,deep,Spatial relations,56,11,0.702381,big / sharp / long
+STRONG,5,strong,The body,56,7,0.859524,big / sharp / long
+POINTED,5,pointed,Spatial relations,51,5,0.852857,big / sharp / long
+HEAVY,5,heavy,Sense perception,38,12,0.859524,big / sharp / long
+FAT (ORGANIC SUBSTANCE),5,fat,The body,37,13,0.859524,big / sharp / long
+FAST,5,fast,Time,33,10,0.859524,big / sharp / long
+GROW,5,grow,Spatial relations,29,9,0.859524,big / sharp / long
+WARM,5,warm,Sense perception,28,3,0.408095,big / sharp / long
+LOUD,5,loud,Sense perception,25,5,0.859524,big / sharp / long
+CLIMB,5,climb,Motion,14,6,0.830952,big / sharp / long
+ROUGH,5,rough,Sense perception,14,4,0.859524,big / sharp / long
+BLUNT,5,blunt,Sense perception,13,4,0.852857,big / sharp / long
+GREEN,6,green,Sense perception,142,14,0.927619,green / black / dark
+BLACK,6,black,Sense perception,133,21,0.930476,green / black / dark
+DARK,6,dark,Sense perception,112,9,0.930476,green / black / dark
+BLUE,6,blue,Sense perception,106,8,0.927619,green / black / dark
+BAD,6,bad,Emotions and values,97,9,0.930476,green / black / dark
+NIGHT,6,night,Time,91,20,0.930476,green / black / dark
+BLOOD,6,blood,The body,88,31,0.927619,green / black / dark
+DIRTY,6,dirty,Sense perception,84,14,0.930476,green / black / dark
+YOUNG,6,young,Time,84,11,0.766667,green / black / dark
+NEW,6,new,Time,79,16,0.766667,green / black / dark
+YELLOW,6,yellow,Sense perception,79,13,0.927619,green / black / dark
+RED,6,red,Sense perception,66,10,0.927619,green / black / dark
+WET,6,wet,Sense perception,63,17,0.919048,green / black / dark
+RIPE,6,ripe,Food and drink,61,16,0.927619,green / black / dark
+UGLY,6,ugly,Emotions and values,60,4,0.930476,green / black / dark
+RAW,6,raw,Food and drink,58,6,0.927619,green / black / dark
+WRONG,6,wrong,Emotions and values,38,5,0.930476,green / black / dark
+LEFT,6,left,Spatial relations,21,10,0.930476,green / black / dark
+SICK,6,sick,The body,20,6,0.930476,green / black / dark
+EVENING,6,evening,Time,18,2,0.930476,green / black / dark
+GREY,6,grey,Sense perception,13,4,0.927619,green / black / dark
+CROOKED,6,crooked,Spatial relations,6,2,0.930476,green / black / dark
+FOOT,7,foot,The body,197,28,0.820588,foot / shin / leg
+LOWER LEG,7,shin,The body,143,8,0.820588,foot / shin / leg
+LEG,7,leg,The body,112,15,0.820588,foot / shin / leg
+UPPER LEG (THIGH),7,thigh,The body,105,5,0.820588,foot / shin / leg
+BONE,7,bone,The body,89,32,0.820588,foot / shin / leg
+NOT,7,not,Miscellaneous function words,55,11,0.541176,foot / shin / leg
+DRY,7,dry,Sense perception,49,20,0.541176,foot / shin / leg
+ROOT,7,root,Agriculture and vegetation,43,18,0.820588,foot / shin / leg
+NO,7,no,Cognition,27,6,0.541176,foot / shin / leg
+NOTHING,7,nothing,Miscellaneous function words,24,2,0.541176,foot / shin / leg
+ELBOW,7,elbow,The body,23,7,0.801176,foot / shin / leg
+KNEE,7,knee,The body,22,7,0.820588,foot / shin / leg
+ANKLE,7,ankle,The body,21,5,0.820588,foot / shin / leg
+HEEL,7,heel,The body,16,4,0.820588,foot / shin / leg
+EMPTY,7,empty,Quantity,15,4,0.541176,foot / shin / leg
+SHOE,7,shoe,Clothing and grooming,5,2,0.820588,foot / shin / leg
+BAT,7,bat,Animals,4,2,0.815294,foot / shin / leg
+BUTTERFLY,7,butterfly,Animals,4,2,0.815294,foot / shin / leg
+MANY,8,many,Quantity,67,18,0.725714,many / five / ten
+FIVE,8,five,Quantity,66,18,0.931429,many / five / ten
+TEN,8,ten,Quantity,65,15,0.931429,many / five / ten
+SEVEN,8,seven,Quantity,64,12,0.931429,many / five / ten
+SIX,8,six,Quantity,62,13,0.931429,many / five / ten
+NINE,8,nine,Quantity,59,11,0.931429,many / five / ten
+TWENTY,8,twenty,Quantity,58,12,0.931429,many / five / ten
+EIGHT,8,eight,Quantity,57,12,0.931429,many / five / ten
+TWELVE,8,twelve,Quantity,55,11,0.931429,many / five / ten
+FOUR,8,four,Quantity,49,13,0.931429,many / five / ten
+TWO,8,two,Quantity,47,17,0.931429,many / five / ten
+ELEVEN,8,eleven,Quantity,45,10,0.931429,many / five / ten
+THREE,8,three,Quantity,40,15,0.931429,many / five / ten
+ALL,8,all,Quantity,24,9,0.725714,many / five / ten
+FULL,8,full,Quantity,17,7,0.725714,many / five / ten
+WATER,9,water,The physical world,199,40,0.997692,water / river / rain
+RIVER,9,river,The physical world,99,11,0.997692,water / river / rain
+RAIN (PRECIPITATION),9,rain,The physical world,98,27,0.997692,water / river / rain
+SOUR,9,sour,Sense perception,63,8,0.997692,water / river / rain
+BITTER,9,bitter,Sense perception,59,5,0.997692,water / river / rain
+SALTY,9,salty,Sense perception,57,5,0.997692,water / river / rain
+SEA,9,sea,The physical world,53,8,0.997692,water / river / rain
+LAKE,9,lake,The physical world,44,12,0.997692,water / river / rain
+YEAR,9,year,Time,37,14,0.997692,water / river / rain
+HONEY,9,honey,Food and drink,34,7,0.991538,water / river / rain
+SALT,9,salt,Food and drink,29,6,0.997692,water / river / rain
+BEE,9,bee,Animals,27,5,0.991538,water / river / rain
+SWEET,9,sweet,Sense perception,27,5,0.997692,water / river / rain
+SUGAR CANE,9,sugarcane,Agriculture and vegetation,7,3,0.991538,water / river / rain
+MALE PERSON,10,man,Kinship,143,18,0.990769,man / person / boy
+PERSON,10,person,Kinship,142,22,0.990769,man / person / boy
+BOY,10,boy,Kinship,131,12,0.987692,man / person / boy
+CHILD (YOUNG HUMAN),10,child,Kinship,114,8,0.987692,man / person / boy
+SON,10,son,Kinship,111,10,0.987692,man / person / boy
+WIFE,10,wife,Kinship,100,8,0.990769,man / person / boy
+WOMAN,10,woman,Kinship,98,11,0.990769,man / person / boy
+HUSBAND,10,husband,Kinship,89,10,0.990769,man / person / boy
+GIRL,10,girl,Kinship,87,7,0.987692,man / person / boy
+CHILD (DESCENDANT),10,offspring,Kinship,77,7,0.987692,man / person / boy
+DAUGHTER,10,daughter,Kinship,75,8,0.987692,man / person / boy
+PEOPLE,10,people,Social and political relations,40,3,0.990769,man / person / boy
+PIG,10,pig,Animals,6,3,0.990769,man / person / boy
+FRIEND,10,friend,Social and political relations,2,1,0.990769,man / person / boy
+MOUTH,11,mouth,The body,130,34,0.972308,mouth / neck / tooth
+NECK,11,neck,The body,114,14,0.915385,mouth / neck / tooth
+TOOTH,11,tooth,The body,114,39,0.972308,mouth / neck / tooth
+WORD,11,word,Speech and language,90,7,0.972308,mouth / neck / tooth
+LANGUAGE,11,language,Speech and language,86,7,0.972308,mouth / neck / tooth
+NAME,11,name,Speech and language,75,31,0.972308,mouth / neck / tooth
+THROAT,11,throat,The body,58,4,0.915385,mouth / neck / tooth
+PATH,11,path,Motion,54,4,0.956154,mouth / neck / tooth
+LIP,11,lip,The body,46,7,0.972308,mouth / neck / tooth
+ROAD,11,road,Motion,46,1,0.956154,mouth / neck / tooth
+NAPE (OF NECK),11,nape,The body,45,4,0.915385,mouth / neck / tooth
+TONGUE,11,tongue,The body,41,12,0.972308,mouth / neck / tooth
+I,11,I,Kinship,39,17,0.972308,mouth / neck / tooth
+DOOR,11,door,The house,19,7,0.972308,mouth / neck / tooth
+TREE,12,tree,Agriculture and vegetation,198,27,0.995833,tree / fire / wood
+FIRE,12,fire,The physical world,119,32,0.995833,tree / fire / wood
+WOOD,12,wood,The physical world,108,8,0.995833,tree / fire / wood
+STICK,12,stick,The physical world,99,15,0.995833,tree / fire / wood
+FIREWOOD,12,firewood,The physical world,98,8,0.995833,tree / fire / wood
+BOW,12,bow,Warfare and hunting,46,9,0.995833,tree / fire / wood
+ARROW,12,arrow,Warfare and hunting,44,8,0.995833,tree / fire / wood
+FOREST,12,forest,The physical world,38,8,0.995833,tree / fire / wood
+SPEAR,12,spear,Warfare and hunting,35,10,0.995833,tree / fire / wood
+GUN,12,gun,Warfare and hunting,27,7,0.995833,tree / fire / wood
+MEDICINE,12,medicine,The body,26,8,0.95,tree / fire / wood
+KNIFE,12,knife,Food and drink,5,2,0.995833,tree / fire / wood
+RAINBOW,12,rainbow,The physical world,5,1,0.995833,tree / fire / wood
+BREAST,13,breast,The body,148,15,0.961667,breast / belly / milk
+BELLY,13,belly,The body,87,17,0.961667,breast / belly / milk
+MILK,13,milk,Food and drink,73,6,0.961667,breast / belly / milk
+STOMACH,13,stomach,The body,68,10,0.961667,breast / belly / milk
+HEART,13,heart,The body,64,16,0.961667,breast / belly / milk
+LIVER,13,liver,The body,52,18,0.961667,breast / belly / milk
+NIPPLE,13,nipple,The body,50,5,0.961667,breast / belly / milk
+CHEST,13,chest,The body,47,9,0.961667,breast / belly / milk
+INTESTINES,13,intestines,The body,36,5,0.961667,breast / belly / milk
+LUNG,13,lung,The body,27,9,0.961667,breast / belly / milk
+LIGHT (WEIGHT),13,lightweight,Sense perception,26,8,0.54,breast / belly / milk
+SHIT (DEFECATE),13,defecate,The body,8,4,0.961667,breast / belly / milk
+PISS,13,piss,The body,6,3,0.961667,breast / belly / milk
+THAT,14,that,Miscellaneous function words,136,20,0.966667,that / this / he
+THIS,14,this,Miscellaneous function words,112,17,0.966667,that / this / he
+HE,14,he,Kinship,88,9,0.966667,that / this / he
+HERE,14,here,Miscellaneous function words,61,8,0.966667,that / this / he
+THEY,14,they,Kinship,60,15,0.966667,that / this / he
+SHE,14,she,Kinship,57,4,0.966667,that / this / he
+IT,14,it,Kinship,55,4,0.966667,that / this / he
+THERE,14,there,Miscellaneous function words,54,8,0.966667,that / this / he
+LOUSE,14,louse,Animals,51,16,0.816667,that / this / he
+NOW,14,now,Time,46,7,0.966667,that / this / he
+TODAY,14,today,Time,34,3,0.966667,that / this / he
+FLEA,14,flea,Animals,22,3,0.816667,that / this / he
+YOU,14,you,Kinship,22,7,0.966667,that / this / he
+GOOD,15,good,Emotions and values,150,17,1,good / correct / straight
+CORRECT (RIGHT),15,correct,Emotions and values,129,17,1,good / correct / straight
+STRAIGHT,15,straight,Spatial relations,78,7,1,good / correct / straight
+SOFT,15,soft,Sense perception,64,10,1,good / correct / straight
+BEAUTIFUL,15,beautiful,Emotions and values,62,7,1,good / correct / straight
+SMOOTH,15,smooth,Sense perception,56,7,1,good / correct / straight
+FLAT,15,flat,Spatial relations,51,9,1,good / correct / straight
+CLEAN,15,clean,Sense perception,50,7,1,good / correct / straight
+RIGHT,15,right,Spatial relations,49,7,1,good / correct / straight
+WEAK,15,weak,The body,40,9,1,good / correct / straight
+SLOW,15,slow,Time,19,4,1,good / correct / straight
+QUIET,15,quiet,Sense perception,11,3,1,good / correct / straight
+OLD (AGED),16,old,Time,226,7,1,old / worn / old man
+OLD (USED),16,worn,Time,214,6,1,old / worn / old man
+OLD MAN,16,old man,Kinship,82,8,1,old / worn / old man
+MOTHER,16,mother,Kinship,63,23,1,old / worn / old man
+OLD WOMAN,16,old woman,Kinship,63,7,1,old / worn / old man
+FATHER,16,father,Kinship,54,18,1,old / worn / old man
+GRANDMOTHER,16,grandmother,Kinship,41,6,1,old / worn / old man
+GRANDFATHER,16,grandfather,Kinship,35,5,1,old / worn / old man
+BREAK (BREAKING),17,break,Basic actions and technology,0,0,,break (isolated)
+CRUSH,18,crush,Food and drink,0,0,,crush (isolated)
+DOVE,19,dove,Animals,0,0,,dove (isolated)
+FART,20,fart,The body,0,0,,fart (isolated)
+HUNDRED,21,hundred,Quantity,0,0,,hundred (isolated)
+ISLAND,22,island,The physical world,0,0,,island (isolated)
+MAIZE,23,maize,Agriculture and vegetation,0,0,,maize (isolated)
+OWL,24,owl,Animals,0,0,,owl (isolated)
+SCARED,25,scared,Emotions and values,0,0,,scared (isolated)
+SPRING (OF WATER),26,spring,The physical world,0,0,,spring (isolated)
+SWEAT (PERSPIRE),27,perspire,The body,0,0,,perspire (isolated)
+SWEAT (SUBSTANCE),28,sweat,The body,0,0,,sweat (isolated)

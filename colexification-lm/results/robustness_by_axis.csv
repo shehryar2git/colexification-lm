@@ -1,0 +1,12 @@
+hypothesis,axis,axis_label,n_checks,n_survive,n_pending,all_survive
+H1,extra,further alternatives recorded in DECISIONS.md,7,5,2,False
+H1,i,binary vs family-weighted colexification,3,3,0,True
+H1,ii,alternative distance metrics,2,2,0,True
+H1,iii,shortest-path typological distance,1,1,0,True
+H1,iv,a different concept-set threshold,4,4,0,True
+H1,v,leave-one-family-out,1,1,0,True
+H2,extra,further alternatives recorded in DECISIONS.md,8,2,1,False
+H2,i,binary vs family-weighted colexification,2,0,0,False
+H2,iv,a different concept-set threshold,1,1,0,True
+H2,v,leave-one-family-out,1,0,0,False
+H3,extra,further alternatives recorded in DECISIONS.md,8,4,2,False

@@ -1,0 +1,20 @@
+# data: raw downloads and heavy intermediates are rebuilt by `make`
+data/raw/*
+!data/raw/.gitkeep
+data/processed/**/*.parquet
+data/processed/**/*.pkl
+data/processed/matrices/*.npz
+data/processed/embeddings/*
+!data/processed/embeddings/.gitkeep
+# the canonical concept order IS committed
+!data/processed/concept_order.json
+!data/processed/reference_partition.json
+
+logs/*
+!logs/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store

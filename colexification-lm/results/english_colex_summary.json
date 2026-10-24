@@ -1,0 +1,42 @@
+{
+  "wordnet_source": "https://github.com/nltk/nltk_data @ 550b6625bcef1f2abff2ff770a5a0d272c9c6b2a (packages/corpora/wordnet.zip)",
+  "n_working_concepts": 427,
+  "n_concepts_in_wordnet": 408,
+  "concepts_not_in_wordnet": [
+    "what",
+    "who",
+    "where",
+    "they",
+    "you",
+    "that",
+    "this",
+    "when",
+    "how",
+    "housefly",
+    "and",
+    "she",
+    "head hair",
+    "if",
+    "it",
+    "in front of",
+    "because",
+    "beside",
+    "upper arm"
+  ],
+  "wn_n_synsets_median": 6.0,
+  "n_pairs_total": 90951,
+  "n_candidate_pairs": 3579,
+  "n_candidates_gloss_is_shared": 155,
+  "n_candidates_by_route": {
+    "definition": 2590,
+    "shared_lemma": 845,
+    "shared_lemma+definition": 144
+  },
+  "audit_criteria": "present = one ordinary present-day English word is used for both concepts in everyday speech (metaphorical extensions listed in a standard dictionary count); absent = the shared lemma is slang, technical, archaic, a proper name, a numeral or letter, or an artefact of WordNet grouping; unsure = annotator cannot decide (excluded from H2).",
+  "n_h2_population_pairs": 2448,
+  "n_edges_excluded_same_collision_group": 11,
+  "n_audit_rows": 432,
+  "audit_decisions": {
+    "pending": 432
+  }
+}
